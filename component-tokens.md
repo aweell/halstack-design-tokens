@@ -19,66 +19,84 @@
 
 ## Accordion
 
-* [Color](#color)
-* [Typography](#typography)
-* [Misc](#misc)
-
 ### Color
-
-| Component token                             | Core token                                  | Value                           |
-| :----------------------------------------   | :------------------------------------------ | :------------------------------ |
-| `backgroundColor`                           | `Hal-White`                                 | `#ffffff`                       |
-| `hoverBackgroundColor`                      | `Hal-Purple-L-95`                           | `#f2eafa`                       |
-| `arrowColor`                                | `Hal-Purple-S-38`                           | `#5f249f`                       |
-| `disabledColor`                             | `Hal-Grey-L-75`                             | `#bfbfbf`                       |
-| `assistiveTextFontColor`                    | `Hal-Grey-S-40`                             | `#666666`                       |
-| `titleLabelFontColor`                       | `Hal-Grey-S-40`                             | `#666666`                       |
-| `focusBorderColor`                          | `Hal-Purple-S-38`                           | `#5f249f`                       |
-| `iconColor`                                 | `Hal-Purple-S-38`                           | `#5f249f`                       |
+| Component token                             | Element                              | Core token                           | Value                            |
+| :------------------------------------------ | :----------------------------------- | :----------------------------------- | :------------------------------- |
+| `backgroundColor`                           | Container background                 | `Hal-White`                          | #ffffff                          |
+| `hoverBackgroundColor`                      | Header background:hover              | `Hal-Purple-L-95`                    | #f2eafa                          |
+| `arrowColor`                                | Caret icon                           | `Hal-Purple-S-38`                    | #5f249f                          |
+| `disabledColor`                             | Label:disabled                       | `Hal-Grey-L-75`                      | #bfbfbf                          |
+| `assistiveTextFontColor`                    | Helper text                          | `Hal-Grey-S-40`                      | #666666                          |
+| `titleLabelFontColor`                       | Label                                | `Hal-Grey-S-40`                      | #666666                          |
+| `focusBorderColor`                          | Header border:focus                  | `Hal-Purple-S-38`                    | #5f249f                          |
+| `iconColor`                                 | Custom icon                          | `Hal-Purple-S-38`                    | #5f249f                          |
 
 ### Typography
 
-| Component token                             | Core token                                  | Value                           |
-| :----------------------------------------   | :------------------------------------------ | :------------------------------ |
-| `assistiveTextFontFamily`                   | `type_sans`                                 | `Open Sans, sans-serif`         |
-| `assistiveTextFontSize`                     | `type_scale_03`                             | `1rem`                          |
-| `assistiveTextFontWeight`                   | `type_light`                                | `300`                           |
-| `assistiveTextFontStyle`                    | `type_italic`                               | `italic`                        |
-| `assistiveTextLetterSpacing`                | `type_spacing_wide_01`                      | `0.025em`                       |
-| `titleLabelFontFamily`                      | `type_sans`                                 | `Open Sans, sans-serif`         |
-| `titleLabelFontSize`                        | `type_scale_03`                             | `1rem`                          |
-| `titleLabelFontWeight`                      | `type_regular`                              | `400`                           |
-| `titleLabelFontStyle`                       | `type_normal`                               | `normal`                        |
+| Component token                             | Element                              | Core token                           | Value                            |
+| :------------------------------------------ | :----------------------------------- | :----------------------------------- | :------------------------------- |
+| `assistiveTextFontFamily`                   | Helper text                          | `type_sans`                          | Open Sans, sans-serif            |
+| `assistiveTextFontSize`                     | Helper text                          | `type_scale_03`                      | 1rem                             |
+| `assistiveTextFontWeight`                   | Helper text                          | `type_light`                         | 300                              |
+| `assistiveTextFontStyle`                    | Helper text                          | `type_italic`                        | italic                           |
+| `assistiveTextLetterSpacing`                | Helper text                          | `type_spacing_wide_01`               | 0.025em                          |
+| `titleLabelFontFamily`                      | Label                                | `type_sans`                          | Open Sans, sans-serif            |
+| `titleLabelFontSize`                        | Label                                | `type_scale_03`                      | 1rem                             |
+| `titleLabelFontWeight`                      | Label                                | `type_regular`                       | 400                              |
+| `titleLabelFontStyle`                       | Label                                | `type_normal`                        | normal                           |
 
 ### Misc
 
-| Component token                             | Core token                                  | Value                           |
-| :----------------------------------------   | :------------------------------------------ | :------------------------------ |
-| `assistiveTextMinWidth`                     | -                                           | `100px`                         |
-| `assistiveTextPaddingRight`                 | -                                           | `24px`                          |
-| `assistiveTextPaddingLeft`                  | -                                           | `0px`                           |
-| `titleLabelPaddingLeft`                     | -                                           | `0px`                           |
-| `titleLabelPaddingRight`                    | -                                           | `0px`                           |
-| `titlePaddingTop`                           | -                                           | `0px`                           |
-| `titlePaddingBottom`                        | -                                           | `0px`                           |
-| `focusBorderStyle`                          | -                                           | `solid`                         |
-| `focusBorderThickness`                      | -                                           | `1px`                           |
-| `borderRadius`                              | -                                           | `4px`                           |
-| `boxShadowOffsetX`                          | -                                           | `0px`                           |
-| `boxShadowOffsetY`                          | -                                           | `6px`                           |
-| `boxShadowBlur`                             | -                                           | `10px`                          |
-| `boxShadowColor`                            | -                                           | `#00000024`                     |
-| `iconSize`                                  | -                                           | `24px`                          |
-| `iconMarginLeft`                            | -                                           | `0px`                           |
-| `iconMarginRigth`                           | -                                           | `12px`                          |
-| `accordionGroupSeparatorBorderColor`        | -                                           | `#00000024`                     |
-| `accordionGroupSeparatorBorderThickness`    | -                                           | `1px`                           |
-| `accordionGroupSeparatorBorderRadius`       | -                                           | `0px`                           |
-| `accordionGroupSeparatorBorderStyle`        | -                                           | `solid`                         |
+| Component token                             | Element                              | Core token                           | Value                            |
+| :------------------------------------------ | :----------------------------------- | :----------------------------------- | :------------------------------- |
+| `assistiveTextMinWidth`                     | Helper text                          | -                                    | 100px                            |
+| `assistiveTextPaddingRight`                 | Helper text                          | -                                    | 24px                             |
+| `assistiveTextPaddingLeft`                  | Helper text                          | -                                    | 0px                              |
+| `titleLabelPaddingLeft`                     | Label                                | -                                    | 0px                              |
+| `titleLabelPaddingRight`                    | Label                                | -                                    | 0px                              |
+| `titlePaddingTop`                           | Header container                     | -                                    | 0px                              |
+| `titlePaddingBottom`                        | Header container                     | -                                    | 0px                              |
+| `focusBorderStyle`                          | Header border:focus                  | -                                    | solid                            |
+| `focusBorderThickness`                      | Header border:focus                  | -                                    | 1px                              |
+| `borderRadius`                              | Container                            | -                                    | 4px                              |
+| `boxShadowOffsetX`                          | Container                            | -                                    | 0px                              |
+| `boxShadowOffsetY`                          | Container                            | -                                    | 6px                              |
+| `boxShadowBlur`                             | Container                            | -                                    | 10px                             |
+| `boxShadowColor`                            | Container                            | -                                    | #00000024                        |
+| `iconSize`                                  | Icon                                 | -                                    | 24px                             |
+| `iconMarginLeft`                            | Icon                                 | -                                    | 0px                              |
+| `iconMarginRigth`                           | Icon                                 | -                                    | 12px                             |
+| `accordionGroupSeparatorBorderColor`        | Separator                            | -                                    | #00000024                        |
+| `accordionGroupSeparatorBorderThickness`    | Separator                            | -                                    | 1px                              |
+| `accordionGroupSeparatorBorderRadius`       | Separator                            | -                                    | 0px                              |
+| `accordionGroupSeparatorBorderStyle`        | Separator                            | -                                    | solid                            | 
 
 
 
 ## Alert
+
+### Color
+
+| Component token                      | Element                              | Core token                           | Value                                |
+| :----------------------------------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
+| `infoIconColor`                      | Icon                                 | `Hal-Blue-S-35`                      | #0067b3                              |
+| `successIconColor`                   | Icon                                 | `Hal-Green-S-39`                     | #24a148                              |
+| `warningIconColor`                   | Icon                                 | `Hal-Yellow-D-40`                    | #c59f07                              |
+| `errorIconColor`                     | Icon                                 | `Hal-Red-S-41`                       | #d0011b                              |
+| `infoBackgroundColor`                | Container background                 | `Hal-Blue-L-95`                      | #e6f4ff                              |
+| `successBackgroundColor`             | Container background                 | `Hal-Green-L-95`                     | #eafaef                              |
+| `warningBackgroundColor`             | Container background                 | `Hal-Yellow-L-95`                    | #fef9e6                              |
+| `errorBackgroundColor`               | Container background                 | `Hal-Red-L-95`                       | #ffe6e9                              |
+| `infoBorderColor`                    | Container border                     | `Hal-Blue-S-35`                      | #0067b3                              |
+| `successBorderColor`                 | Container border                     | `Hal-Green-S-39`                     | #24a148                              |
+| `warningBorderColor`                 | Container border                     | `Hal-Yellow-S-57`                    | #f7cf2b                              |
+| `errorBorderColor`                   | Container border                     | `Hal-Red-S-41`                       | #d0011b                              |
+| `titleFontColor`                     | Label                                | `Hal-Black`                          | #000000                              |
+| `contentFontColor`                   | Content                              | `Hal-Black`                          | #000000                              |
+| `focusColor`                         | Action:focus                         | `Hal-Blue-S-35`                      | #0067b3                              |
+| `boxShadowColor`                     | Container                            | -                                    | #00000012                            |
+| `overlayColor`                       | Overlay                              | -                                    | #000000B3                            |
+
 
 ```
     overlayColor: globalTokens.black,
