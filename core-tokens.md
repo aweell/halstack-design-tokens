@@ -1,5 +1,9 @@
 # Core tokens
 
+* [Color](#color)
+* [Typogrpahy](#typography)
+* [Spacing](#spacing)
+
 ## Color
 
 ### Greyscale
@@ -16,11 +20,7 @@
 | `Hal-Black`         | #000000      | (0, 0%, 0%)      |
 
 
-
 ### Purple
-
-The core Purple family serves as the primary action color.
-
 
 | Name                | Value (hex)  | Value (hsl)      | 
 | :---                | :---         | :---             |
@@ -34,7 +34,6 @@ The core Purple family serves as the primary action color.
 
 ### Blue
 
-The core Blue family serves as the accent color.
 
 | Name                | Value (hex)  | Value (hsl)      |
 | :---                | :---         | :---             |
@@ -44,7 +43,6 @@ The core Blue family serves as the accent color.
 | `Hal-Blue-L-45`     | #0086e6      | (205, 100%, 45%) |
 | `Hal-Blue-S-35`     | #0067b3      | (205, 100%, 35%) |
 | `Hal-Blue-D-20`     | #003c66      | (205, 100%, 20%) |
-
 
 
 ### Red
@@ -89,15 +87,11 @@ The core Blue family serves as the accent color.
 
 ### Font family
 
-For our sans-serif `font-family`, we use the humanist typeface Open Sans, designed by Steve Matteson and licensed under the [Apache License, Version 2.0.](https://www.apache.org/licenses/LICENSE-2.0.html)
-
 | Token                       | Description                                   | Property            | Value                        | 
 | :---                        | :---                                          | :---                | :---                         |  
 | `type-sans`                 | _Default font family sans-serif_              | `font-family`       | 'Open Sans', sans-serif;     | 
 
 ### Weight
-
-In order to add contrast between typographic elements in the UI, Halstack uses four different and well balanced `font-weight` values.
 
 | Token                       | Description                                   | Property            | Value        | 
 | :---                        | :---                                          | :---                | :---         |  
@@ -107,9 +101,7 @@ In order to add contrast between typographic elements in the UI, Halstack uses f
 | `type-bold`                 | _Set font weight as bold (700)_               | `font-weight`       | 700          | 
 
 
-### Scale
-
-As we approached the foundational elements with simplification and standardization in mind, the typographic scale is one of the most important elements to create hierarchy. Our type scale provides eight relative values based on a root font size of 16px, making it scalable and accesible. 
+### Scale 
 
 #### Base
 
@@ -141,8 +133,6 @@ As we approached the foundational elements with simplification and standardizati
 
 #### Letter spacing
 
-We calibrate our `letter-spacing` at large scales to provide a better legibility and readability of our text.
-
 | Token                       | Description                                   | Property            | Value(em)    | 
 | :---                        | :---                                          | :---                | :---         | 
 | `type-spacing-tight-02`     | _Set letter spacing as -0.025em_              | `letter-spacing`    | -0.025       |
@@ -153,8 +143,6 @@ We calibrate our `letter-spacing` at large scales to provide a better legibility
 | `type-spacing-wide-03`      | _Set letter spacing as 0.1em_                 | `letter-spacing`    | 0.1          | 
 
 #### Leading
-
-We use a ratio of 1:1.5 as a standard `line-height` value. A body font of 16px (1rem) returns a value of 24px (1.5rem), which is the main reference measurement for the vertical organization.
 
 | Token                       | Description                                   | Property            | Value(em)    | 
 | :---                        | :---                                          | :---                | :---         | 
@@ -182,8 +170,6 @@ We use a ratio of 1:1.5 as a standard `line-height` value. A body font of 16px (
 | `type-line-through`         | _Put a strikethrough the text_                | `text-decoration`   | line-through |
 
 ## Spacing
-
-The core spacing scale is used to create space relationships for detail-level designs.
 
 | Token         | rem    | px   | 
 | :---          | :---   | :--- | 
