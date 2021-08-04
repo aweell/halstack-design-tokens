@@ -97,28 +97,25 @@
 | `boxShadowColor`                     | Container                            | -                                    | #00000012                            |
 | `overlayColor`                       | Overlay                              | -                                    | #000000B3                            |
 
+### Typography
+
+| Component token                      | Element                              | Core token                           | Value                                |
+| :----------------------------------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
+| `titleFontFamily`                    | Label                                | `type_sans`                          | Open Sans, sans-serif                |
+| `titleFontSize`                      | Label                                | `type_scale_01`                      | 12px                                 |
+| `titleFontWeight`                    | Label                                | `type_bold`                          | 700                                  |  
+| `titleTextTransform`                 | Label                                | `type_uppercase`                     | uppercase                            | 
+| `titleFontStyle`                     | Label                                | `type_normal`                        | normal                               | 
+| `titleFontFamily`                    | Content                              | `type_sans`                          | Open Sans, sans-serif                |
+| `titleFontSize`                      | Content                              | `type_scale_01`                      | 12px                                 |
+| `titleFontWeight`                    | Content                              | `type_regular`                       | 400                                  |  
+| `titleFontStyle`                     | Content                              | `type_normal`                        | normal                               | 
 
 ```
-    overlayColor: globalTokens.black,
-    infoColor: globalTokens.lightBlue,
-    successColor: globalTokens.lightGreen,
-    warningColor: globalTokens.lightYellow,
-    errorColor: globalTokens.lightPink,
-    focusColor: globalTokens.blue,
-    titleFontFamily: globalTokens.type_sans,
-    titleFontSize: globalTokens.type_scale_01,
-    titleFontColor: globalTokens.black,
-    titleFontWeight: globalTokens.type_bold,
-    titleTextTransform: globalTokens.type_uppercase,
-    titleFontStyle: globalTokens.type_normal,
     titlePaddingRight: "10px",
     titlePaddingLeft: "0px",
     titlePaddingTop: "0px",
     titlePaddingBottom: "0px",
-    contentFontFamily: globalTokens.type_sans,
-    contentFontSize: globalTokens.type_scale_01,
-    contentFontColor: globalTokens.black,
-    contentFontWeight: globalTokens.type_normal,
     contentPaddingLeft: "46px",
     contentPaddingRight: "12px",
     contentPaddingTop: "8px",
