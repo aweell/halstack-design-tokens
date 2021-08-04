@@ -84,6 +84,11 @@ Changes made on the Chip advanced tokens:
 - [ ] `iconPaddingRight` token removed.
 - [ ] `height` token removed.
 
+## Date
+Changes made on the Date advanced tokens:
+
+- [ ] `pickerActualDate` renamed as `pickerActualDateColor`.
+
 ## Dropdown
 Changes made on the Dropdown advanced tokens:
 
