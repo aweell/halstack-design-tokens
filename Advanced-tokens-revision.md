@@ -23,20 +23,20 @@
 
 ## Accordion
 Changes made on the Accordion advanced tokens:
-- [ ] `disabledFontColor` renamed as `disabledColor`.
-- [ ] `titleFocusBorderStyle` renamed as `focusBorderStyle`.
-- [ ] `titleFocusBorderThickness` renamed as `focusBorderThickness`.
-- [ ] `titleFocusBorderColor` renamed as `focusBorderColor`.
-- [ ] `iconMaxHeight` and `iconMaxWidth` replaced by `iconSize`.
-- [ ] `fontColorBase` token removed.
-- [ ] `iconColor` token added.
-- [ ] `assistiveTextFontColor` has a new value: `#666666`.
-- [ ] `titleLabelFontColor` has a new value: `#666666`.
+- [x] `disabledFontColor` renamed as `disabledColor`.
+- [x] `fontColorBase` token removed.
+- [x] New `iconColor` token added.
+- [x] `assistiveTextFontColor` has a new value: `#666666`.
+- [x] `titleLabelFontColor` has a new value: `#666666`.
 - [ ] `customContentFontFamily` token removed.
 - [ ] `customContentFontSize` token removed.
 - [ ] `customContentFontWeight` token removed.
 - [ ] `customContentFontColor` token removed.
 - [ ] `customContentPanelHeight` token removed.
+- [ ] `titleFocusBorderStyle` renamed as `focusBorderStyle`.
+- [ ] `titleFocusBorderThickness` renamed as `focusBorderThickness`.
+- [ ] `titleFocusBorderColor` renamed as `focusBorderColor`.
+- [ ] `iconMaxHeight` and `iconMaxWidth` replaced by `iconSize`.
 
 ## Box
 Changes made on the Box advanced tokens:
@@ -107,7 +107,7 @@ Changes made on the Footer advanced tokens:
 - [ ] `minHeight` renamed as `height`.
 - [ ] `socialIconSize` renamed as `socialLinksSize`.
 - [ ] `socialIconsGutter` renamed as `socialLinksGutter`.
-- [x] `socialLinksColor` token added.
+- [x] New `socialLinksColor` token added.
 
 ## Header
 Changes made on the Header advanced tokens:
@@ -255,10 +255,10 @@ Changes made on the Slider advanced tokens:
 ## Tag
 Changes made on the Tag advanced tokens:
 
-- [ ] `fontFamily` token added with value: `Open Sans, sans-serif`.
-- [ ] `fontColor` token added with value: `#000000`.
-- [ ] `fontSize` token added with value: `0.875rem`.
-- [ ] `fontWeight` token added with value: `400`.
+- [ ] New `fontFamily` token added with value: `Open Sans, sans-serif`.
+- [ ] New `fontColor` token added with value: `#000000`.
+- [ ] New `fontSize` token added with value: `0.875rem`.
+- [ ] New `fontWeight` token added with value: `400`.
 - [ ] `unselectedBackgroundHoverColor` renamed as `unselectedHoverBackgroundColor`.
 
 ## Textarea
