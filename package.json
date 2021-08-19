@@ -1,0 +1,26 @@
+{
+  "name": "@aweell/halstack-design-tokens",
+  "version": "1.0.0",
+  "description": "Halstack Design Tokens",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "style-dictionary": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweell/halstack-design-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweell/halstack-design-tokens/issues"
+  },
+  "homepage": "https://github.com/aweell/halstack-design-tokens#readme"
+}
