@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 19 Aug 2021 18:59:54 GMT
+ * Generated on Sat, 28 Aug 2021 10:52:58 GMT
  */
 
 export const ColorTransparent = "#000000";
