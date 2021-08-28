@@ -1,6 +1,6 @@
 {
   "name": "@aweell/halstack-design-tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Halstack Design Tokens",
   "main": "index.js",
   "directories": {
