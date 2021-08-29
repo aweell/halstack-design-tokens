@@ -1,0 +1,9 @@
+{
+    "breakpoint": {
+        "x-small":  {"name":"x-small","value": "20rem"},
+        "small":    {"name":"small","value": "30rem"},
+        "medium":   {"name":"medium","value": "45rem"},
+        "large":    {"name":"large","value": "66rem"},
+        "x-large":  {"name":"x-large","value": "90rem"}
+    }  
+}

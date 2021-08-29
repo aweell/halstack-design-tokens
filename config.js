@@ -5,6 +5,7 @@ module.exports = {
     "src/colors.json",
     "src/typography.json",
     "src/spacing.json",
+    "src/breakpoints.json",
   ],
   "platforms": {
     "css": {

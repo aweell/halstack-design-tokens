@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 28 Aug 2021 10:52:58 GMT
+ * Generated on Sun, 29 Aug 2021 18:11:28 GMT
  */
 
 export const ColorTransparent = "#000000";
@@ -124,3 +124,8 @@ export const Spacing06 = "1.5rem";
 export const Spacing07 = "2rem";
 export const Spacing08 = "2.5rem";
 export const Spacing09 = "3rem";
+export const BreakpointXSmall = "20rem";
+export const BreakpointSmall = "30rem";
+export const BreakpointMedium = "45rem";
+export const BreakpointLarge = "66rem";
+export const BreakpointXLarge = "90rem";
