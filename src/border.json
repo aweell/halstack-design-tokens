@@ -1,0 +1,20 @@
+{
+    "border": {
+        "radius": {
+            "none":     {"name":"border-radius-none","value": "0"},
+            "small":    {"name":"border-radius-small","value": "0.125rem"},
+            "medium":   {"name":"border-radius-medium","value": "0.25rem"},
+            "large":    {"name":"border-radius-large","value": "0.375rem"}
+        },
+        "width": {
+            "0":     {"name":"border-width-0","value": "0"},
+            "1":    {"name":"border-width-1","value": "1px"},
+            "2":    {"name":"border-width-2","value": "2px"},
+            "4":    {"name":"border-width-4","value": "4px"}
+        },
+        "style": {
+            "solid":    {"name":"border-style-solid","value": "solid"},
+            "dashed":   {"name":"border-style-dashed","value": "dashed"}
+        }
+    }  
+}

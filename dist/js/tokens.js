@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 29 Aug 2021 18:11:28 GMT
+ * Generated on Sun, 29 Aug 2021 18:39:25 GMT
  */
 
 export const ColorTransparent = "#000000";
@@ -129,3 +129,13 @@ export const BreakpointSmall = "30rem";
 export const BreakpointMedium = "45rem";
 export const BreakpointLarge = "66rem";
 export const BreakpointXLarge = "90rem";
+export const BorderRadiusNone = "0";
+export const BorderRadiusSmall = "0.125rem";
+export const BorderRadiusMedium = "0.25rem";
+export const BorderRadiusLarge = "0.375rem";
+export const BorderWidth0 = "0";
+export const BorderWidth1 = "1px";
+export const BorderWidth2 = "2px";
+export const BorderWidth4 = "4px";
+export const BorderStyleSolid = "solid";
+export const BorderStyleDashed = "dashed";

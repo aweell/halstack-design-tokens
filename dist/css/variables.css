@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 29 Aug 2021 18:11:28 GMT
+ * Generated on Sun, 29 Aug 2021 18:39:25 GMT
  */
 
 :root {
@@ -130,4 +130,14 @@
   --breakpoint-medium: 45rem;
   --breakpoint-large: 66rem;
   --breakpoint-x-large: 90rem;
+  --border-radius-none: 0;
+  --border-radius-small: 0.125rem;
+  --border-radius-medium: 0.25rem;
+  --border-radius-large: 0.375rem;
+  --border-width-0: 0;
+  --border-width-1: 1px;
+  --border-width-2: 2px;
+  --border-width-4: 4px;
+  --border-style-solid: solid;
+  --border-style-dashed: dashed;
 }

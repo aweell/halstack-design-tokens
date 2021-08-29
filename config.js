@@ -6,6 +6,7 @@ module.exports = {
     "src/typography.json",
     "src/spacing.json",
     "src/breakpoints.json",
+    "src/border.json",
   ],
   "platforms": {
     "css": {
