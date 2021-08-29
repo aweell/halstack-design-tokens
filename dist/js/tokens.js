@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 29 Aug 2021 18:39:25 GMT
+ * Generated on Sun, 29 Aug 2021 19:16:53 GMT
  */
 
 export const ColorTransparent = "#000000";
@@ -139,3 +139,7 @@ export const BorderWidth2 = "2px";
 export const BorderWidth4 = "4px";
 export const BorderStyleSolid = "solid";
 export const BorderStyleDashed = "dashed";
+export const ShadowNone = "none";
+export const ShadowLow = "0 1px 2px 0 rgba(0,0,0,0.2)";
+export const ShadowDefault = "0 4px 6px -1px rgba(0,0,0,0.1)";
+export const ShadowHigh = "0 8px 14px -2px rgba(0,0,0,0.1)";
