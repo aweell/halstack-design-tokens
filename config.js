@@ -8,6 +8,7 @@ module.exports = {
     "src/breakpoints.json",
     "src/border.json",
     "src/shadow.json",
+    "src/z-index.json",
   ],
   "platforms": {
     "css": {

@@ -1,0 +1,16 @@
+{
+    "z-index": {
+        "auto":       {"name":"z-indez-auto","value": "auto"},
+        "bottom":     {"name":"z-indez-bottom","value": "-100"},
+        "default":    {"name":"z-indez-default","value": "1"},
+        "docked":     {"name":"z-indez-header","value": "10"},
+        "sticky":     {"name":"z-indez-header","value": "100"},
+        "pop-up":     {"name":"z-indez-dropdown","value": "200"},
+        "dropdown":   {"name":"z-indez-dropdown","value": "300"},
+        "overlay":    {"name":"z-indez-overlay","value": "400"},
+        "dialog":     {"name":"z-indez-dialog","value": "500"},
+        "spinner":    {"name":"z-indez-spinner","value": "600"},
+        "toast":      {"name":"z-indez-toast","value": "700"},
+        "top":        {"name":"z-indez-top","value": "9000"}
+    }  
+}

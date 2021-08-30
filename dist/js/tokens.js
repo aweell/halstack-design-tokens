@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 29 Aug 2021 19:16:53 GMT
+ * Generated on Mon, 30 Aug 2021 06:56:20 GMT
  */
 
 export const ColorTransparent = "#000000";
@@ -143,3 +143,15 @@ export const ShadowNone = "none";
 export const ShadowLow = "0 1px 2px 0 rgba(0,0,0,0.2)";
 export const ShadowDefault = "0 4px 6px -1px rgba(0,0,0,0.1)";
 export const ShadowHigh = "0 8px 14px -2px rgba(0,0,0,0.1)";
+export const ZIndexAuto = "auto";
+export const ZIndexBottom = "-100";
+export const ZIndexDefault = "1";
+export const ZIndexDocked = "10";
+export const ZIndexSticky = "100";
+export const ZIndexPopUp = "200";
+export const ZIndexDropdown = "300";
+export const ZIndexOverlay = "400";
+export const ZIndexDialog = "500";
+export const ZIndexSpinner = "600";
+export const ZIndexToast = "700";
+export const ZIndexTop = "9000";
