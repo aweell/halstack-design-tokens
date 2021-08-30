@@ -5,6 +5,10 @@ module.exports = {
     "src/colors.json",
     "src/typography.json",
     "src/spacing.json",
+    "src/breakpoints.json",
+    "src/border.json",
+    "src/shadow.json",
+    "src/z-index.json",
   ],
   "platforms": {
     "css": {
