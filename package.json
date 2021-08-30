@@ -4,7 +4,8 @@
   "description": "Halstack Design Tokens",
   "main": "index.js",
   "directories": {
-    "doc": "docs"
+    "dist": "dist",
+    "src" : "src"
   },
   "dependencies": {
     "style-dictionary": "^3.0.1"
@@ -17,10 +18,14 @@
     "type": "git",
     "url": "git+https://github.com/aweell/halstack-design-tokens.git"
   },
-  "author": "",
+  "author": "aweell",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aweell/halstack-design-tokens/issues"
   },
-  "homepage": "https://github.com/aweell/halstack-design-tokens#readme"
+  "homepage": "https://github.com/aweell/halstack-design-tokens#readme",
+  "files": [
+    "dist/*", 
+    "src/*", 
+    "index.js"]
 }
