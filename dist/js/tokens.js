@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 Aug 2021 20:36:03 GMT
+ * Generated on Mon, 06 Sep 2021 09:48:58 GMT
  */
 
 export const colorTransparent = "#000000";
@@ -93,14 +93,14 @@ export const fontStyleItalic = "italic";
 export const fontStyleNormal = "normal";
 export const fontTrackingTight02 = "-0.025em";
 export const fontTrackingTight01 = "-0.0125em";
-export const fontTrackingNormalNormal = "0em";
+export const fontTrackingNormal = "0em";
 export const fontTrackingWide01 = "0.025em";
 export const fontTrackingWide02 = "0.05em";
 export const fontTrackingWide03 = "0.1em";
 export const fontLeadingCompact03 = "1em";
 export const fontLeadingCompact02 = "1.25em";
 export const fontLeadingCompact01 = "1.365em";
-export const fontLeadingNormalNormal = "1.5em";
+export const fontLeadingNormal = "1.5em";
 export const fontLeadingLoose01 = "1.75em";
 export const fontLeadingLoose02 = "2em";
 export const fontTransformInitial = "initial";

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 Aug 2021 20:36:03 GMT
+ * Generated on Mon, 06 Sep 2021 09:48:58 GMT
  */
 
 :root {
@@ -94,14 +94,14 @@
   --font-style-normal: normal;
   --font-tracking-tight-02: -0.025em;
   --font-tracking-tight-01: -0.0125em;
-  --font-tracking-normal-normal: 0em;
+  --font-tracking-normal: 0em;
   --font-tracking-wide-01: 0.025em;
   --font-tracking-wide-02: 0.05em;
   --font-tracking-wide-03: 0.1em;
   --font-leading-compact-03: 1em;
   --font-leading-compact-02: 1.25em;
   --font-leading-compact-01: 1.365em;
-  --font-leading-normal-normal: 1.5em;
+  --font-leading-normal: 1.5em;
   --font-leading-loose-01: 1.75em;
   --font-leading-loose-02: 2em;
   --font-transform-initial: initial;

@@ -28,9 +28,7 @@
       "02": {"value":"-0.025em"},
       "01": {"value":"-0.0125em"}
      },
-     "normal": {
-      "normal": {"value":"0em"}
-     },
+      "normal": {"value":"0em"},
      "wide": {
       "01": {"value":"0.025em"},
       "02": {"value":"0.05em"},
@@ -43,9 +41,7 @@
        "02": {"value":"1.25em"},
        "01": {"value":"1.365em"}
      },
-     "normal": {
-       "normal": {"value":"1.5em"}
-     },
+       "normal": {"value":"1.5em"},
      "loose": {
        "01": {"value":"1.75em"},
        "02": {"value":"2em"}
