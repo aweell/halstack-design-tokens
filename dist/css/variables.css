@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Sep 2021 20:12:28 GMT
+ * Generated on Thu, 09 Sep 2021 20:25:33 GMT
  */
 
 :root {
@@ -167,29 +167,26 @@
   --accordion-assistive-text-font-color: #666666;
   --accordion-assistive-text-letter-spacing: 0.05em;
   --accordion-assistive-text-min-width: 100px;
-  --accordion-assistive-text-padding-right: 24px;
-  --accordion-assistive-text-padding-left: 0px;
+  --accordion-assistive-text-padding-right: 1.5rem;
+  --accordion-assistive-text-padding-left: 0rem;
   --accordion-title-label-font-family: Open Sans, sans-serif;
   --accordion-title-label-font-size: 0.1rem;
   --accordion-title-label-font-weight: 400;
   --accordion-title-label-font-style: normal;
   --accordion-title-label-font-color: #000000;
-  --accordion-title-label-padding-left: 0px;
-  --accordion-title-label-padding-right: 0px;
-  --accordion-title-padding-top: 0px;
-  --accordion-title-padding-bottom: 0px;
+  --accordion-title-label-padding-left: 0rem;
+  --accordion-title-label-padding-right: 0rem;
+  --accordion-title-padding-top: 0rem;
+  --accordion-title-padding-bottom: 0rem;
   --accordion-focus-border-style: solid;
   --accordion-focus-border-thickness: 1px;
   --accordion-focus-border-color: #5f249f;
-  --accordion-border-radius: 4px;
-  --accordion-box-shadow-offset-x: 0px;
-  --accordion-box-shadow-offset-y: 6px;
-  --accordion-box-shadow-blur: 10px;
-  --accordion-box-shadow-color: #00000024;
+  --accordion-border-radius: 0.25rem;
+  --accordion-box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
   --accordion-icon-color: #5f249f;
   --accordion-icon-size: 24px;
-  --accordion-icon-margin-left: 0px;
-  --accordion-icon-margin-rigth: 12px;
+  --accordion-icon-margin-left: 0rem;
+  --accordion-icon-margin-rigth: 0.75rem;
   --accordion-group-separator-border-color: #00000024;
   --accordion-group-separator-border-thickness: 1px;
   --accordion-group-separator-border-radius: 0px;
