@@ -9,6 +9,7 @@ module.exports = {
     "src/border.json",
     "src/shadow.json",
     "src/z-index.json",
+    "src/components.json",
   ],
   "platforms": {
     "css": {

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Sep 2021 09:48:58 GMT
+ * Generated on Thu, 09 Sep 2021 20:12:28 GMT
  */
 
 export const colorTransparent = "#000000";
@@ -155,3 +155,41 @@ export const zIndexDialog = "500";
 export const zIndexSpinner = "600";
 export const zIndexToast = "700";
 export const zIndexTop = "9000";
+export const accordionBackgroundColor = "#ffffff";
+export const accordionArrowColor = "#5f249f";
+export const accordionHoverBackgroundColor = "#f2eafa";
+export const accordionDisabledColor = "#bfbfbf";
+export const accordionAssistiveTextFontFamily = "Open Sans, sans-serif";
+export const accordionAssistiveTextFontSize = "0.1rem";
+export const accordionAssistiveTextFontWeight = "300";
+export const accordionAssistiveTextFontStyle = "italic";
+export const accordionAssistiveTextFontColor = "#666666";
+export const accordionAssistiveTextLetterSpacing = "0.05em";
+export const accordionAssistiveTextMinWidth = "100px";
+export const accordionAssistiveTextPaddingRight = "24px";
+export const accordionAssistiveTextPaddingLeft = "0px";
+export const accordionTitleLabelFontFamily = "Open Sans, sans-serif";
+export const accordionTitleLabelFontSize = "0.1rem";
+export const accordionTitleLabelFontWeight = "400";
+export const accordionTitleLabelFontStyle = "normal";
+export const accordionTitleLabelFontColor = "#000000";
+export const accordionTitleLabelPaddingLeft = "0px";
+export const accordionTitleLabelPaddingRight = "0px";
+export const accordionTitlePaddingTop = "0px";
+export const accordionTitlePaddingBottom = "0px";
+export const accordionFocusBorderStyle = "solid";
+export const accordionFocusBorderThickness = "1px";
+export const accordionFocusBorderColor = "#5f249f";
+export const accordionBorderRadius = "4px";
+export const accordionBoxShadowOffsetX = "0px";
+export const accordionBoxShadowOffsetY = "6px";
+export const accordionBoxShadowBlur = "10px";
+export const accordionBoxShadowColor = "#00000024";
+export const accordionIconColor = "#5f249f";
+export const accordionIconSize = "24px";
+export const accordionIconMarginLeft = "0px";
+export const accordionIconMarginRigth = "12px";
+export const accordionGroupSeparatorBorderColor = "#00000024";
+export const accordionGroupSeparatorBorderThickness = "1px";
+export const accordionGroupSeparatorBorderRadius = "0px";
+export const accordionGroupSeparatorBorderStyle = "solid";
