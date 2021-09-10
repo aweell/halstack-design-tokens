@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Thu, 09 Sep 2021 20:25:33 GMT
+// Generated on Fri, 10 Sep 2021 07:40:15 GMT
 
 $color-transparent: rgba(0, 0, 0, 0);
 $color-white: #ffffff;
@@ -154,6 +154,10 @@ $z-index-dialog: 500;
 $z-index-spinner: 600;
 $z-index-toast: 700;
 $z-index-top: 9000;
+$size-icon-small: 1rem;
+$size-icon-medium: 1.125rem;
+$size-icon-large: 1.25rem;
+$size-icon-xlarge: 1.5rem;
 $accordion-background-color: #ffffff;
 $accordion-arrow-color: #5f249f;
 $accordion-hover-background-color: #f2eafa;
@@ -182,10 +186,10 @@ $accordion-focus-border-color: #5f249f;
 $accordion-border-radius: 0.25rem;
 $accordion-box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
 $accordion-icon-color: #5f249f;
-$accordion-icon-size: 24px;
+$accordion-icon-size: 1.5rem;
 $accordion-icon-margin-left: 0rem;
 $accordion-icon-margin-rigth: 0.75rem;
-$accordion-group-separator-border-color: #00000024;
+$accordion-group-separator-border-color: #bfbfbf;
 $accordion-group-separator-border-thickness: 1px;
-$accordion-group-separator-border-radius: 0px;
+$accordion-group-separator-border-radius: 0;
 $accordion-group-separator-border-style: solid;

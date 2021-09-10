@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Sep 2021 20:25:33 GMT
+ * Generated on Fri, 10 Sep 2021 07:40:15 GMT
  */
 
 export const colorTransparent = "#000000";
@@ -155,6 +155,10 @@ export const zIndexDialog = "500";
 export const zIndexSpinner = "600";
 export const zIndexToast = "700";
 export const zIndexTop = "9000";
+export const sizeIconSmall = "1rem";
+export const sizeIconMedium = "1.125rem";
+export const sizeIconLarge = "1.25rem";
+export const sizeIconXlarge = "1.5rem";
 export const accordionBackgroundColor = "#ffffff";
 export const accordionArrowColor = "#5f249f";
 export const accordionHoverBackgroundColor = "#f2eafa";
@@ -183,10 +187,10 @@ export const accordionFocusBorderColor = "#5f249f";
 export const accordionBorderRadius = "0.25rem";
 export const accordionBoxShadow = "0 4px 6px -1px rgba(0,0,0,0.1)";
 export const accordionIconColor = "#5f249f";
-export const accordionIconSize = "24px";
+export const accordionIconSize = "1.5rem";
 export const accordionIconMarginLeft = "0rem";
 export const accordionIconMarginRigth = "0.75rem";
-export const accordionGroupSeparatorBorderColor = "#00000024";
+export const accordionGroupSeparatorBorderColor = "#bfbfbf";
 export const accordionGroupSeparatorBorderThickness = "1px";
-export const accordionGroupSeparatorBorderRadius = "0px";
+export const accordionGroupSeparatorBorderRadius = "0";
 export const accordionGroupSeparatorBorderStyle = "solid";

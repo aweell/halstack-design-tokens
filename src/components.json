@@ -28,7 +28,7 @@
     "borderRadius": {"value":"{border.radius.medium.value}"},
     "boxShadow": {"value":"{shadow.default.value}"},
     "iconColor": {"value": "{color.purple.700.value}"},
-    "iconSize": {"value":"24px"},
+    "iconSize": {"value":"{size.icon.xlarge.value}"},
     "iconMarginLeft": {"value":"{spacing.00.value}"},
     "iconMarginRigth": {"value":"{spacing.04.value}"},
     "GroupSeparatorBorderColor": {"value": "{color.grey.400.value}"},
