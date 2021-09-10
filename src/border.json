@@ -13,6 +13,7 @@
             "4":    {"name":"border-width-4","value": "4px"}
         },
         "style": {
+            "none":     {"name":"border-style-none","value": "none"},
             "solid":    {"name":"border-style-solid","value": "solid"},
             "dashed":   {"name":"border-style-dashed","value": "dashed"}
         }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 07:40:15 GMT
+ * Generated on Fri, 10 Sep 2021 13:28:57 GMT
  */
 
 export const colorTransparent = "#000000";
@@ -137,6 +137,7 @@ export const borderWidth0 = "0";
 export const borderWidth1 = "1px";
 export const borderWidth2 = "2px";
 export const borderWidth4 = "4px";
+export const borderStyleNone = "none";
 export const borderStyleSolid = "solid";
 export const borderStyleDashed = "dashed";
 export const shadowNone = "none";
@@ -194,3 +195,44 @@ export const accordionGroupSeparatorBorderColor = "#bfbfbf";
 export const accordionGroupSeparatorBorderThickness = "1px";
 export const accordionGroupSeparatorBorderRadius = "0";
 export const accordionGroupSeparatorBorderStyle = "solid";
+export const alertOverlayColor = "";
+export const alertInfoBackgroundColor = "#e6f4ff";
+export const alertSuccessBackgroundColor = "#eafaef";
+export const alertWarningBackgroundColor = "#fef9e6";
+export const alertErrorBackgroundColor = "#ffe6e9";
+export const alertFocusColor = "#0095ff";
+export const alertTitleFontFamily = "Open Sans, sans-serif";
+export const alertTitleFontSize = "0.75rem";
+export const alertTitleFontColor = "#000000";
+export const alertTitleFontWeight = "700";
+export const alertTitleTextTransform = "uppercase";
+export const alertTitleFontStyle = "normal";
+export const alertTitlePaddingRight = "0.5rem";
+export const alertTitlePaddingLeft = "0rem";
+export const alertTitlePaddingTop = "0.75rem";
+export const alertTitlePaddingBottom = "0.75rem";
+export const alertContentFontFamily = "Open Sans, sans-serif";
+export const alertContentFontSize = "0.75rem";
+export const alertContentFontColor = "#000000";
+export const alertContentFontWeight = "400";
+export const alertContentPaddingLeft = "3rem";
+export const alertContentPaddingRight = "0.75rem";
+export const alertContentPaddingTop = "0.25rem";
+export const alertContentPaddingBottom = "0.5rem";
+export const alertBorderRadius = "0.25rem";
+export const alertBorderStyle = "none";
+export const alertBorderThickness = "0";
+export const alertBorderColor = "#000000";
+export const alertInlineTextPaddingLeft = "0.5rem";
+export const alertInlineTextPaddingRight = "0.5rem";
+export const alertInlineTextPaddingTop = "0rem";
+export const alertInlineTextPaddingBottom = "0rem";
+export const alertIconPaddingLeft = "0.75rem";
+export const alertIconPaddingRight = "0rem";
+export const alertIconPaddingTop = "0rem";
+export const alertIconPaddingBottom = "0rem";
+export const alertIconSize = "1.125rem";
+export const alertTextPaddingLeft = "0.75rem";
+export const alertTextPaddingRight = "0.75rem";
+export const alertTextPaddingTop = "0rem";
+export const alertTextPaddingBottom = "0rem";
