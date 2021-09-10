@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 Aug 2021 20:36:03 GMT
+ * Generated on Fri, 10 Sep 2021 07:40:15 GMT
  */
 
 export const colorTransparent = "#000000";
@@ -93,14 +93,14 @@ export const fontStyleItalic = "italic";
 export const fontStyleNormal = "normal";
 export const fontTrackingTight02 = "-0.025em";
 export const fontTrackingTight01 = "-0.0125em";
-export const fontTrackingNormalNormal = "0em";
+export const fontTrackingNormal = "0em";
 export const fontTrackingWide01 = "0.025em";
 export const fontTrackingWide02 = "0.05em";
 export const fontTrackingWide03 = "0.1em";
 export const fontLeadingCompact03 = "1em";
 export const fontLeadingCompact02 = "1.25em";
 export const fontLeadingCompact01 = "1.365em";
-export const fontLeadingNormalNormal = "1.5em";
+export const fontLeadingNormal = "1.5em";
 export const fontLeadingLoose01 = "1.75em";
 export const fontLeadingLoose02 = "2em";
 export const fontTransformInitial = "initial";
@@ -155,3 +155,42 @@ export const zIndexDialog = "500";
 export const zIndexSpinner = "600";
 export const zIndexToast = "700";
 export const zIndexTop = "9000";
+export const sizeIconSmall = "1rem";
+export const sizeIconMedium = "1.125rem";
+export const sizeIconLarge = "1.25rem";
+export const sizeIconXlarge = "1.5rem";
+export const accordionBackgroundColor = "#ffffff";
+export const accordionArrowColor = "#5f249f";
+export const accordionHoverBackgroundColor = "#f2eafa";
+export const accordionDisabledColor = "#bfbfbf";
+export const accordionAssistiveTextFontFamily = "Open Sans, sans-serif";
+export const accordionAssistiveTextFontSize = "0.1rem";
+export const accordionAssistiveTextFontWeight = "300";
+export const accordionAssistiveTextFontStyle = "italic";
+export const accordionAssistiveTextFontColor = "#666666";
+export const accordionAssistiveTextLetterSpacing = "0.05em";
+export const accordionAssistiveTextMinWidth = "100px";
+export const accordionAssistiveTextPaddingRight = "1.5rem";
+export const accordionAssistiveTextPaddingLeft = "0rem";
+export const accordionTitleLabelFontFamily = "Open Sans, sans-serif";
+export const accordionTitleLabelFontSize = "0.1rem";
+export const accordionTitleLabelFontWeight = "400";
+export const accordionTitleLabelFontStyle = "normal";
+export const accordionTitleLabelFontColor = "#000000";
+export const accordionTitleLabelPaddingLeft = "0rem";
+export const accordionTitleLabelPaddingRight = "0rem";
+export const accordionTitlePaddingTop = "0rem";
+export const accordionTitlePaddingBottom = "0rem";
+export const accordionFocusBorderStyle = "solid";
+export const accordionFocusBorderThickness = "1px";
+export const accordionFocusBorderColor = "#5f249f";
+export const accordionBorderRadius = "0.25rem";
+export const accordionBoxShadow = "0 4px 6px -1px rgba(0,0,0,0.1)";
+export const accordionIconColor = "#5f249f";
+export const accordionIconSize = "1.5rem";
+export const accordionIconMarginLeft = "0rem";
+export const accordionIconMarginRigth = "0.75rem";
+export const accordionGroupSeparatorBorderColor = "#bfbfbf";
+export const accordionGroupSeparatorBorderThickness = "1px";
+export const accordionGroupSeparatorBorderRadius = "0";
+export const accordionGroupSeparatorBorderStyle = "solid";
