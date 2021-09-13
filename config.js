@@ -2,15 +2,16 @@ const StyleDictionary = require('style-dictionary');
 
 module.exports = {
   "source": [
-    "src/colors.json",
-    "src/typography.json",
-    "src/spacing.json",
-    "src/breakpoints.json",
-    "src/border.json",
-    "src/shadow.json",
-    "src/z-index.json",
-    "src/size.json",
-    "src/components.json",
+    "src/core/colors.json",
+    "src/core/typography.json",
+    "src/core/spacing.json",
+    "src/core/breakpoints.json",
+    "src/core/border.json",
+    "src/core/shadow.json",
+    "src/core/z-index.json",
+    "src/core/size.json",
+    "src/components/accordion.json",
+    "src/components/alert.json",
   ],
   "platforms": {
     "css": {
