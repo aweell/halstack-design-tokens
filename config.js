@@ -12,6 +12,7 @@ module.exports = {
     "src/core/size.json",
     "src/components/accordion.json",
     "src/components/alert.json",
+    "src/components/box.json",
   ],
   "platforms": {
     "css": {
