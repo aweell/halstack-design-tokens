@@ -1,6 +1,6 @@
 {
     "alert": {
-    "overlayColor": {"value": ""},
+    "overlayColor": {"value": "{color.black.value}"},
     "infoBackgroundColor": {"value": "{color.blue.100.value}"},
     "successBackgroundColor": {"value": "{color.green.100.value}"},
     "warningBackgroundColor": {"value": "{color.yellow.100.value}"},
