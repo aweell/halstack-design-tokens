@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 13:28:57 GMT
+ * Generated on Mon, 13 Sep 2021 06:38:57 GMT
  */
 
 export const colorTransparent = "#000000";
@@ -133,6 +133,7 @@ export const borderRadiusNone = "0";
 export const borderRadiusSmall = "0.125rem";
 export const borderRadiusMedium = "0.25rem";
 export const borderRadiusLarge = "0.375rem";
+export const borderRadiusRounded = "50%";
 export const borderWidth0 = "0";
 export const borderWidth1 = "1px";
 export const borderWidth2 = "2px";
