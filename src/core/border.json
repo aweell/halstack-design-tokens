@@ -5,7 +5,7 @@
             "small":    {"name":"border-radius-small","value": "0.125rem"},
             "medium":   {"name":"border-radius-medium","value": "0.25rem"},
             "large":    {"name":"border-radius-large","value": "0.375rem"},
-            "rounded":  {"name":"border-radius-rounded","value": "50%"}
+            "full":     {"name":"border-radius-full","value": "9999px"}
         },
         "width": {
             "0":     {"name":"border-width-0","value": "0"},

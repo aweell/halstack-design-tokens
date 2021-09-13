@@ -1,43 +1,6 @@
 {
-"accordion": {
-    "backgroundColor": {"value": "{color.white.value}"},
-    "arrowColor": {"value": "{color.purple.700.value}"},
-    "hoverBackgroundColor": {"value": "{color.purple.100.value}"},
-    "disabledColor": {"value": "{color.grey.400.value}"},
-    "assistiveTextFontFamily": {"value": "{font.family.value}"},
-    "assistiveTextFontSize": {"value": "{font.scale.03.value}"},
-    "assistiveTextFontWeight": {"value": "{font.weight.light.value}"},
-    "assistiveTextFontStyle": {"value": "{font.style.italic.value}"},
-    "assistiveTextFontColor": {"value": "{color.grey.700.value}"},
-    "assistiveTextLetterSpacing": {"value": "{font.tracking.wide.02.value}"},
-    "assistiveTextMinWidth": {"value":"100px"},
-    "assistiveTextPaddingRight": {"value":"{spacing.06.value}"},
-    "assistiveTextPaddingLeft": {"value":"{spacing.00.value}"},
-    "titleLabelFontFamily": {"value": "{font.family.value}"},
-    "titleLabelFontSize": {"value": "{font.scale.03.value}"},
-    "titleLabelFontWeight": {"value": "{font.weight.regular.value}"},
-    "titleLabelFontStyle": {"value": "{font.style.normal.value}"},
-    "titleLabelFontColor": {"value": "{color.black.value}"},
-    "titleLabelPaddingLeft": {"value":"{spacing.00.value}"},
-    "titleLabelPaddingRight": {"value":"{spacing.00.value}"},
-    "titlePaddingTop": {"value":"{spacing.00.value}"},
-    "titlePaddingBottom": {"value":"{spacing.00.value}"},
-    "focusBorderStyle": {"value":"{border.style.solid.value}"},
-    "focusBorderThickness": {"value":"{border.width.1.value}"},
-    "focusBorderColor": {"value": "{color.purple.700.value}"},
-    "borderRadius": {"value":"{border.radius.medium.value}"},
-    "boxShadow": {"value":"{shadow.default.value}"},
-    "iconColor": {"value": "{color.purple.700.value}"},
-    "iconSize": {"value":"{size.icon.xlarge.value}"},
-    "iconMarginLeft": {"value":"{spacing.00.value}"},
-    "iconMarginRigth": {"value":"{spacing.04.value}"},
-    "GroupSeparatorBorderColor": {"value": "{color.grey.400.value}"},
-    "GroupSeparatorBorderThickness": {"value":"{border.width.1.value}"},
-    "GroupSeparatorBorderRadius": {"value":"{border.radius.none.value}"},
-    "GroupSeparatorBorderStyle": {"value":"{border.style.solid.value}"}
-  },
-  "alert": {
-    "overlayColor": {"value": ""},
+    "alert": {
+    "overlayColor": {"value": "{color.black.value}"},
     "infoBackgroundColor": {"value": "{color.blue.100.value}"},
     "successBackgroundColor": {"value": "{color.green.100.value}"},
     "warningBackgroundColor": {"value": "{color.yellow.100.value}"},
@@ -81,4 +44,4 @@
     "textPaddingTop": {"value":"{spacing.00.value}"},
     "textPaddingBottom": {"value":"{spacing.00.value}"}
   }
-  }
+}
