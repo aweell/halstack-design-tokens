@@ -1,7 +1,7 @@
 {
   "font": {
     "family": {
-        "value": "Open Sans, sans-serif"
+        "value": "'Open Sans', sans-serif"
     },
     "weight": {
       "light": {"value":"300"},
