@@ -1,7 +1,7 @@
 {
   "font": {
     "family": {
-        "value": "Open Sans, sans-serif"
+        "value": "'Open Sans', sans-serif"
     },
     "weight": {
       "light": {"value":"300"},
@@ -12,7 +12,7 @@
     "scale": {
       "01": {"value":"0.75rem"},
       "02": {"value":"0.875rem"},
-      "03": {"value":"0.1rem"},
+      "03": {"value":"1rem"},
       "04": {"value":"1.25rem"},
       "05": {"value":"1.5rem"},
       "06": {"value":"2rem"},

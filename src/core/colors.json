@@ -1,18 +1,18 @@
 {
   "color": {
     "transparent":  {"name":"color-transparent","value": "transparent"},
-    "white":  {"name":"color-white","value": "#ffffffff"},
-    "black":  {"name":"color-black","value": "#000000ff"},
+    "white":  {"name":"color-white","value": "#ffffff"},
+    "black":  {"name":"color-black","value": "#000000"},
     "grey": {
-      "50":  {"name":"color-grey-50", "value": "#FAFAFA"},
-      "100": {"name":"color-grey-100","value": "#F2F2F2"},
-      "200": {"name":"color-grey-200","value": "#E6E6E6"},
-      "300": {"name":"color-grey-300","value": "#CCCCCC"},   
-      "400": {"name":"color-grey-400","value": "#BFBFBF"},
+      "50":  {"name":"color-grey-50", "value": "#fafafa"},
+      "100": {"name":"color-grey-100","value": "#f2f2f2"},
+      "200": {"name":"color-grey-200","value": "#e6e6e6"},
+      "300": {"name":"color-grey-300","value": "#cccccc"},   
+      "400": {"name":"color-grey-400","value": "#bfbfbf"},
       "500": {"name":"color-grey-500","value": "#999999"},
       "600": {"name":"color-grey-600","value": "#808080"},
       "700": {"name":"color-grey-700","value": "#666666"},
-      "800": {"name":"color-grey-800","value": "#4D4D4D"},    
+      "800": {"name":"color-grey-800","value": "#4d4d4d"},    
       "900": {"name":"color-grey-900","value": "#333333"}
     },
     "purple": {
