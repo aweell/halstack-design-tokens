@@ -13,6 +13,7 @@ module.exports = {
     "src/components/accordion.json",
     "src/components/alert.json",
     "src/components/box.json",
+    "src/components/button.json",
   ],
   "platforms": {
     "css": {
