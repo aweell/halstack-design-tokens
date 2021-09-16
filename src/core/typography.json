@@ -1,7 +1,8 @@
 {
   "font": {
     "family": {
-        "value": "'Open Sans', sans-serif"
+      "sans": {"value": "'Open Sans', sans-serif"},
+      "mono": {"value": "'Source Code Pro', monospace"}
     },
     "weight": {
       "light": {"value":"300"},
