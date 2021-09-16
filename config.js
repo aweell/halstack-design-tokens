@@ -10,6 +10,8 @@ module.exports = {
     "src/core/shadow.json",
     "src/core/z-index.json",
     "src/core/size.json",
+    "src/utilities/padding.json",
+    "src/utilities/margin.json",
     "src/components/accordion.json",
     "src/components/alert.json",
     "src/components/box.json",
