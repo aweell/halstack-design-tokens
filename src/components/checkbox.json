@@ -22,7 +22,7 @@
         "checkColorOnDark": {"value": "{color.black.value}"},
         "disabledCheckColor": {"value": "{color.grey.500.value}"},
         "disabledCheckColorOnDark": {"value": "{color.grey.500.value}"},
-        "fontFamily": {"value": "{font.family.value}"},
+        "fontFamily": {"value": "{font.family.sans.value}"},
         "fontSize": {"value": "{font.scale.02.value}"},
         "fontWeight": {"value": "{font.weight.regular.value}"},
         "fontColor": {"value": "{color.black.value}"},
