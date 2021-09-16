@@ -5,9 +5,9 @@
             "backgroundColorOnDark": {"value": "{color.grey.200.value}"},
             "hoverBackgroundColor": {"value": "{color.blue.900.value}"},
             "hoverBackgroundColorOnDark": {"value": "{color.white.value}"},
-            "disabledBackgroundColor": {"value": "{color.blue.800.value}"},
+            "disabledBackgroundColor": {"value": "{color.grey.500.value}"},
             "disabledBackgroundColorOnDark": {"value": "{color.grey.800.value}"},
-            "disabledBorderColor": {"value": "{color.blue.800.value}"},
+            "disabledBorderColor": {"value": "{color.grey.500.value}"},
             "disabledBorderColorOnDark": {"value": "{color.grey.800.value}"}   
           },
           "unselected":{
