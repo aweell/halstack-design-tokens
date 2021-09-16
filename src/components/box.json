@@ -1,13 +1,15 @@
 {
     "box": {
-        "backgroundColor": {"value": "{color.white.value}"},
-        "letterSpacing": {"value": "{font.tracking.wide.01.value}"},
-        "borderRadius": {"value":"{border.radius.medium.value}"},
-        "borderThickness": {"value":"{border.width.0.value}"},
-        "borderStyle": {"value":"{border.style.none.value}"},
-        "borderColor": {"value": "{color.transparent.value}"},
-        "shadowNone": {"value": "{shadow.none.value}"},
-        "shadowDefault":{"value": "{shadow.default.value}"},
-        "shadowHigh":{"value": "{shadow.high.value}"}
+      "backgroundColor": {"value": "{color.white.value}"},
+      "borderRadius": {"value":"{border.radius.medium.value}"},
+      "borderThickness": {"value":"{border.width.1.value}"},
+      "borderStyle": {"value":"{border.style.solid.value}"},
+      "borderColor": {"value": "{color.grey.400.value}"},
+      "bordered": {
+        "shadow": {"value": "{shadow.none.value}"}
+      },
+      "raised": {
+        "shadow":{"value": "{shadow.default.value}"}
+      }
   }
 }

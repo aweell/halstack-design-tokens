@@ -31,6 +31,6 @@
         "disabledFontColorOnDark": {"value": "{color.grey.500.value}"},
         "focusColor": {"value": "{color.blue.600.value}"},
         "focusColorOnDark": {"value": "{color.blue.600.value}"},
-        "checkLabelSpacing": {"value": "{spacing.03.value}"}
+        "inputMargin": {"value": "{spacing.03.value}"}
   }
 }
