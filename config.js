@@ -17,6 +17,7 @@ module.exports = {
     "src/components/box.json",
     "src/components/button.json",
     "src/components/checkbox.json",
+    "src/components/chip.json",
   ],
   "platforms": {
     "css": {
