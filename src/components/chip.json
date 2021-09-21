@@ -22,8 +22,10 @@
         "borderRadius": {"value":"{border.radius.full.value}"},
         "borderWidth": {"value":"{border.width.0.value}"},
         "borderStyle": {"value":"{border.style.solid.value}"},
-        "labelPaddingLeft": {"value": "{spacing.03.value}"},
-        "labelPaddingRight": {"value": "{spacing.03.value}"},
-        "iconSize": {"value": "{size.icon.large.value}"}
+        "labelMarginLeft": {"value": "{spacing.03.value}"},
+        "labelMarginRight": {"value": "{spacing.03.value}"},
+        "iconSize": {"value": "{size.icon.large.value}"},
+        "containerPaddingLeft": {"value": "{spacing.03.value}"},
+        "containerPaddingRight": {"value": "{spacing.03.value}"}
   }
 }
