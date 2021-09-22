@@ -1,6 +1,5 @@
 {
     "radio": {
-        "labelMarginLeft": {"value": "{spacing.03.value}"},
         "CircleSize": "24px",
         "color": {"value": "{color.blue.800.value}"},
         "hoverColor": {"value": "{color.blue.900.value}"},
@@ -17,6 +16,9 @@
         "fontFamily": {"value": "{font.family.sans.value}"},
         "fontSize": {"value": "{font.scale.02.value}"},
         "fontStyle": {"value": "{font.style.normal.value}"},
-        "fontWeight": {"value": "{font.weight.regular.value}"}
+        "fontWeight": {"value": "{font.weight.regular.value}"},
+        "labelMarginLeft": {"value": "{spacing.03.value}"},
+        "groupVerticalSpacing": {"value": "{spacing.05.value}"},
+        "groupHorizontalSpacing": {"value": "{spacing.07.value}"}
   }  
 }
