@@ -27,6 +27,8 @@
         "disabledFontColorOnDark": {"value": "{color.grey.500.value}"},
         "focusColor": {"value": "{color.blue.600.value}"},
         "focusColorOnDark": {"value": "{color.blue.600.value}"},
-        "inputMargin": {"value": "{spacing.03.value}"}
+        "inputMargin": {"value": "{spacing.03.value}"},
+        "groupVerticalSpacing": {"value": "{spacing.05.value}"},
+        "groupHorizontalSpacing": {"value": "{spacing.07.value}"}
   }
 }
