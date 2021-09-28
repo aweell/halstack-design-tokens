@@ -15,7 +15,7 @@
             "disabledBackgroundColorOnDark": {"value": "{color.grey.800.value}"},
             "disabledFontColor": {"value": "{color.grey.500.value}"},
             "disabledFontColorOnDark":{"value": "{color.grey.500.value}"},
-            "focusOutlineColor": {"value": "{color.blue.600.value}"},
+            "focusBorderColor": {"value": "{color.blue.600.value}"},
             "borderWidth": {"value":"{border.width.0.value}"},
             "borderStyle": {"value":"{border.style.none.value}"},
             "borderRadius": {"value":"{border.radius.medium.value}"},
@@ -24,10 +24,10 @@
             "fontWeight": {"value": "{font.weight.regular.value}"},
             "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
             "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "primaryPaddingLeft": {"value": "{spacing.scale.05.value}"},
-            "primaryPaddingRight": {"value": "{spacing.scale.05.value}"},
-            "primaryPaddingTop": {"value": "{spacing.scale.03.value}"},
-            "primaryPaddingBottom": {"value": "{spacing.scale.03.value}"}
+            "primaryPaddingLeft": {"value": "{spacing.05.value}"},
+            "primaryPaddingRight": {"value": "{spacing.05.value}"},
+            "primaryPaddingTop": {"value": "{spacing.03.value}"},
+            "primaryPaddingBottom": {"value": "{spacing.03.value}"}
         },
         "secondary": {
             "backgroundColor": {"value": "{color.transparent.value}"},
@@ -48,7 +48,7 @@
             "disabledBorderColorOnDark": {"value": "{color.grey.500.value}"},
             "disabledFontColor": {"value": "{color.grey.500.value}"},
             "disabledFontColorOnDark": {"value": "{color.grey.500.value}"},
-            "focusOutlineColor": {"value": "{color.blue.600.value}"},
+            "focusBorderColor": {"value": "{color.blue.600.value}"},
             "borderWidth": {"value":"{border.width.1.value}"},
             "borderStyle": {"value":"{border.style.solid.value}"},
             "borderRadius": {"value":"{border.radius.medium.value}"},
@@ -57,10 +57,10 @@
             "fontWeight": {"value": "{font.weight.regular.value}"},
             "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
             "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "secondaryPaddingLeft": {"value": "{spacing.scale.05.value}"},
-            "secondaryPaddingRight": {"value": "{spacing.scale.05.value}"},
-            "secondaryPaddingTop": {"value": "{spacing.scale.03.value}"},
-            "secondaryPaddingBottom": {"value": "{spacing.scale.03.value}"}
+            "secondaryPaddingLeft": {"value": "{spacing.05.value}"},
+            "secondaryPaddingRight": {"value": "{spacing.05.value}"},
+            "secondaryPaddingTop": {"value": "{spacing.03.value}"},
+            "secondaryPaddingBottom": {"value": "{spacing.03.value}"}
         },
         "text": {
             "backgroundColor": {"value": "{color.transparent.value}"},
@@ -77,7 +77,7 @@
             "disabledBackgroundColor": {"value": "{color.transparent.value}"},
             "disabledBackgroundColorOnDark": {"value": "{color.transparent.value}"},
             "disabledFontColorOnDark": {"value": "{color.grey.500.value}"},
-            "focusOutlineColor": {"value": "{color.blue.600.value}"},
+            "focusBorderColor": {"value": "{color.blue.600.value}"},
             "borderThickness": {"value":"{border.width.0.value}"},
             "borderStyle": {"value":"{border.style.none.value}"},
             "borderRadius": {"value":"{border.radius.medium.value}"},
@@ -86,10 +86,10 @@
             "fontWeight": {"value": "{font.weight.regular.value}"},
             "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
             "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "textPaddingLeft": {"value": "{spacing.scale.05.value}"},
-            "textPaddingRight": {"value": "{spacing.scale.05.value}"},
-            "textPaddingTop": {"value": "{spacing.scale.03.value}"},
-            "textPaddingBottom": {"value": "{spacing.scale.03.value}"}
+            "textPaddingLeft": {"value": "{spacing.05.value}"},
+            "textPaddingRight": {"value": "{spacing.05.value}"},
+            "textPaddingTop": {"value": "{spacing.03.value}"},
+            "textPaddingBottom": {"value": "{spacing.03.value}"}
         }
     } 
 }
