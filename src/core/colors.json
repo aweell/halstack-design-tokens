@@ -24,7 +24,7 @@
       "500": {"name":"color-purple-500","value": "#a46ede", "type":"color"},
       "600": {"name":"color-purple-600","value": "#7d2fd0", "type":"color"},
       "700": {"name":"color-purple-700","value": "#5f249f", "type":"color"},
-      "800": {"name":"color-purple-800","value": "#4b1c7d"}, "type":"color",    
+      "800": {"name":"color-purple-800","value": "#4b1c7d", "type":"color"},    
       "900": {"name":"color-purple-900","value": "#321353", "type":"color"}
     },
     "blue": {
