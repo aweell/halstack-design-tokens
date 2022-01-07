@@ -13,7 +13,19 @@
       "600": {"name":"color-grey-600","value": "#808080", "type":"color"},
       "700": {"name":"color-grey-700","value": "#666666", "type":"color"},
       "800": {"name":"color-grey-800","value": "#4d4d4d", "type":"color"},    
-      "900": {"name":"color-grey-900","value": "#333333", "type":"color"}
+      "900": {"name":"color-grey-900","value": "#333333", "type":"color"},
+      "a":{
+        "50":  {"name":"color-grey-50-a", "value": "#00000005", "type":"color"},
+        "100": {"name":"color-grey-100-a","value": "#0000000d", "type":"color"},
+        "200": {"name":"color-grey-200-a","value": "#0000001a", "type":"color"},
+        "300": {"name":"color-grey-300-a","value": "#00000033", "type":"color"},   
+        "400": {"name":"color-grey-400-a","value": "#0000004d", "type":"color"},
+        "500": {"name":"color-grey-500-a","value": "#00000066", "type":"color"},
+        "600": {"name":"color-grey-600-a","value": "#00000080", "type":"color"},
+        "700": {"name":"color-grey-700-a","value": "#00000099", "type":"color"},
+        "800": {"name":"color-grey-800-a","value": "#000000b3", "type":"color"},    
+        "900": {"name":"color-grey-900-a","value": "#000000cc", "type":"color"}
+      }
     },
     "purple": {
       "50":  {"name":"color-purple-50","value": "#faf7fd", "type":"color"},
