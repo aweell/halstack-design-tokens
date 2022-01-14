@@ -1,14 +1,16 @@
 {
     "accordion": {
         "backgroundColor": {"value": "{color.white.value}"},
-        "arrowColor": {"value": "{color.purple.700.value}"},
+        "disabledBackgroundColor": {"value": "{color.transparent.value}"},
         "hoverBackgroundColor": {"value": "{color.purple.100.value}"},
-        "disabledColor": {"value": "{color.grey.400.value}"},
+        "arrowColor": {"value": "{color.purple.700.value}"},
+        "disabledArrowColor": {"value": "{color.purple.700.value}"},
         "assistiveTextFontFamily": {"value": "{font.family.sans.value}"},
         "assistiveTextFontSize": {"value": "{font.scale.03.value}"},
         "assistiveTextFontWeight": {"value": "{font.weight.light.value}"},
         "assistiveTextFontStyle": {"value": "{font.style.italic.value}"},
         "assistiveTextFontColor": {"value": "{color.grey.700.value}"},
+        "disabledAssistiveTextFontColor": {"value": "{color.grey.500.value}"},
         "assistiveTextLetterSpacing": {"value": "{font.tracking.wide.02.value}"},
         "assistiveTextMinWidth": {"value":"100px"},
         "assistiveTextPaddingRight": {"value":"{spacing.24.value}"},
@@ -18,6 +20,7 @@
         "titleLabelFontWeight": {"value": "{font.weight.regular.value}"},
         "titleLabelFontStyle": {"value": "{font.style.normal.value}"},
         "titleLabelFontColor": {"value": "{color.black.value}"},
+        "disabledTitleLabelFontColor": {"value": "{color.grey.500.value}"},
         "titleLabelPaddingLeft": {"value":"{spacing.0.value}"},
         "titleLabelPaddingRight": {"value":"{spacing.0.value}"},
         "titlePaddingTop": {"value":"{spacing.0.value}"},
@@ -28,12 +31,13 @@
         "borderRadius": {"value":"{border.radius.medium.value}"},
         "boxShadow": {"value":"{shadow.default.value}"},
         "iconColor": {"value": "{color.purple.700.value}"},
+        "disabledIconColor": {"value": "{color.grey.500.value}"},
         "iconSize": {"value":"{size.icon.large.value}"},
         "iconMarginLeft": {"value":"{spacing.0.value}"},
         "iconMarginRigth": {"value":"{spacing.80.value}"},
-        "GroupSeparatorBorderColor": {"value": "{color.grey.400.value}"},
-        "GroupSeparatorBorderThickness": {"value":"{border.width.1.value}"},
-        "GroupSeparatorBorderRadius": {"value":"{border.radius.none.value}"},
-        "GroupSeparatorBorderStyle": {"value":"{border.style.solid.value}"}
+        "groupSeparatorBorderColor": {"value": "{color.grey.400.value}"},
+        "groupSeparatorBorderThickness": {"value":"{border.width.1.value}"},
+        "groupSeparatorBorderRadius": {"value":"{border.radius.none.value}"},
+        "groupSeparatorBorderStyle": {"value":"{border.style.solid.value}"}
       }
     }
