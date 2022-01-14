@@ -1,11 +1,11 @@
 {
     "margin": {
-        "xxsmall":     {"name":"padding-xxsmall","value": "{spacing.02.value}"},
-        "xsmall":      {"name":"padding-xsmall","value": "{spacing.03.value}"},
-        "small":       {"name":"padding-xsmall","value": "{spacing.05.value}"},
-        "medium":      {"name":"padding-medium","value": "{spacing.06.value}"},
-        "large":       {"name":"padding-large","value": "{spacing.07.value}"},
-        "xlarge":      {"name":"padding-xlarge","value": "{spacing.09.value}"},
-        "xxlarge":     {"name":"padding-xxlarge","value": "{spacing.11.value}"}
+        "xxsmall":     {"name":"padding-xxsmall","value": "{spacing.4.value}"},
+        "xsmall":      {"name":"padding-xsmall","value": "{spacing.8.value}"},
+        "small":       {"name":"padding-xsmall","value": "{spacing.16.value}"},
+        "medium":      {"name":"padding-medium","value": "{spacing.24.value}"},
+        "large":       {"name":"padding-large","value": "{spacing.32.value}"},
+        "xlarge":      {"name":"padding-xlarge","value": "{spacing.48.value}"},
+        "xxlarge":     {"name":"padding-xxlarge","value": "{spacing.64.value}"}
     }  
 }

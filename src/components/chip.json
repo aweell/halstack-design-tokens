@@ -15,10 +15,10 @@
         "borderRadius": {"value":"{border.radius.full.value}"},
         "borderWidth": {"value":"{border.width.0.value}"},
         "borderStyle": {"value":"{border.style.solid.value}"},
-        "labelMarginLeft": {"value": "{spacing.03.value}"},
-        "labelMarginRight": {"value": "{spacing.03.value}"},
+        "labelMarginLeft": {"value": "{spacing.8.value}"},
+        "labelMarginRight": {"value": "{spacing.8.value}"},
         "iconSize": {"value": "{size.icon.large.value}"},
-        "containerPaddingLeft": {"value": "{spacing.03.value}"},
-        "containerPaddingRight": {"value": "{spacing.03.value}"}
+        "containerPaddingLeft": {"value": "{spacing.8.value}"},
+        "containerPaddingRight": {"value": "{spacing.8.value}"}
   }
 }

@@ -16,8 +16,8 @@
         "fontColor": {"value": "{color.black.value}"},
         "disabledFontColor": {"value": "{color.grey.500.value}"},
         "focusColor": {"value": "{color.blue.600.value}"},
-        "inputMargin": {"value": "{spacing.03.value}"},
-        "groupVerticalSpacing": {"value": "{spacing.05.value}"},
-        "groupHorizontalSpacing": {"value": "{spacing.07.value}"}
+        "inputMargin": {"value": "{spacing.8.value}"},
+        "groupVerticalSpacing": {"value": "{spacing.16.value}"},
+        "groupHorizontalSpacing": {"value": "{spacing.32.value}"}
   }
 }

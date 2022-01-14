@@ -17,10 +17,10 @@
             "fontWeight": {"value": "{font.weight.regular.value}"},
             "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
             "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "primaryPaddingLeft": {"value": "{spacing.05.value}"},
-            "primaryPaddingRight": {"value": "{spacing.05.value}"},
-            "primaryPaddingTop": {"value": "{spacing.03.value}"},
-            "primaryPaddingBottom": {"value": "{spacing.03.value}"}
+            "primaryPaddingLeft": {"value": "{spacing.16.value}"},
+            "primaryPaddingRight": {"value": "{spacing.16.value}"},
+            "primaryPaddingTop": {"value": "{spacing.8.value}"},
+            "primaryPaddingBottom": {"value": "{spacing.8.value}"}
         },
         "secondary": {
             "backgroundColor": {"value": "{color.transparent.value}"},
@@ -41,10 +41,10 @@
             "fontWeight": {"value": "{font.weight.regular.value}"},
             "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
             "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "secondaryPaddingLeft": {"value": "{spacing.05.value}"},
-            "secondaryPaddingRight": {"value": "{spacing.05.value}"},
-            "secondaryPaddingTop": {"value": "{spacing.03.value}"},
-            "secondaryPaddingBottom": {"value": "{spacing.03.value}"}
+            "secondaryPaddingLeft": {"value": "{spacing.16.value}"},
+            "secondaryPaddingRight": {"value": "{spacing.16.value}"},
+            "secondaryPaddingTop": {"value": "{spacing.8.value}"},
+            "secondaryPaddingBottom": {"value": "{spacing.8.value}"}
         },
         "text": {
             "backgroundColor": {"value": "{color.transparent.value}"},
@@ -63,10 +63,10 @@
             "fontWeight": {"value": "{font.weight.regular.value}"},
             "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
             "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "textPaddingLeft": {"value": "{spacing.05.value}"},
-            "textPaddingRight": {"value": "{spacing.05.value}"},
-            "textPaddingTop": {"value": "{spacing.03.value}"},
-            "textPaddingBottom": {"value": "{spacing.03.value}"}
+            "textPaddingLeft": {"value": "{spacing.16.value}"},
+            "textPaddingRight": {"value": "{spacing.16.value}"},
+            "textPaddingTop": {"value": "{spacing.8.value}"},
+            "textPaddingBottom": {"value": "{spacing.8.value}"}
         }
     } 
 }

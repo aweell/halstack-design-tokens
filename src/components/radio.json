@@ -11,8 +11,8 @@
         "fontSize": {"value": "{font.scale.02.value}"},
         "fontStyle": {"value": "{font.style.normal.value}"},
         "fontWeight": {"value": "{font.weight.regular.value}"},
-        "labelMarginLeft": {"value": "{spacing.03.value}"},
-        "groupVerticalSpacing": {"value": "{spacing.05.value}"},
-        "groupHorizontalSpacing": {"value": "{spacing.07.value}"}
+        "labelMarginLeft": {"value": "{spacing.8.value}"},
+        "groupVerticalSpacing": {"value": "{spacing.16.value}"},
+        "groupHorizontalSpacing": {"value": "{spacing.32.value}"}
   }  
 }
