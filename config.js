@@ -32,7 +32,7 @@ module.exports = {
       "buildPath": "dist/css/"
     },
     "js": {
-      "transforms": ["attribute/cti", "name/cti/camel", "color/hex"],
+      "transforms": ["attribute/cti", "name/cti/camel", "color/hex8"],
       "files": [
         {
           "destination": "tokens.js",

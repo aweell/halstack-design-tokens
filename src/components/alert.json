@@ -1,10 +1,31 @@
 {
     "alert": {
-    "overlayColor": {"value": "{color.black.value}"},
-    "infoBackgroundColor": {"value": "{color.blue.100.value}"},
-    "successBackgroundColor": {"value": "{color.green.100.value}"},
-    "warningBackgroundColor": {"value": "{color.yellow.100.value}"},
-    "errorBackgroundColor": {"value": "{color.red.100.value}"},
+    "overlayColor": {"value": "{color.grey.a.800.value}"},
+
+    "info":{
+      "backgroundColor": {"value": "{color.blue.100.value}"},
+      "borderColor": {"value": "{color.blue.800.value}"},
+      "iconColor": {"value": "{color.blue.800.value}"}
+    },
+
+    "success":{
+      "backgroundColor": {"value": "{color.green.100.value}"},
+      "borderColor": {"value": "{color.green.700.value}"},
+      "iconColor": {"value": "{color.green.700.value}"}
+    },
+
+    "warning":{
+      "backgroundColor": {"value": "{color.yellow.100.value}"},
+      "borderColor": {"value": "{color.yellow.700.value}"},
+      "iconColor": {"value": "{color.yellow.700.value}"}
+    },
+
+    "error":{
+      "backgroundColor": {"value": "{color.red.100.value}"},
+      "borderColor": {"value": "{color.red.700.value}"},
+      "iconColor": {"value": "{color.red.700.value}"}
+    },
+
     "focusColor": {"value": "{color.blue.600.value}"},
     "titleFontFamily": {"value": "{font.family.sans.value}"},
     "titleFontSize": {"value": "{font.scale.01.value}"},
@@ -24,10 +45,9 @@
     "contentPaddingRight": {"value":"{spacing.04.value}"},
     "contentPaddingTop": {"value":"{spacing.02.value}"},
     "contentPaddingBottom": {"value":"{spacing.03.value}"},
-    "overlayOpacity": "0.8",
     "borderRadius": {"value":"{border.radius.medium.value}"},
-    "borderStyle": {"value":"{border.style.none.value}"},
-    "borderThickness": {"value":"{border.width.0.value}"},
+    "borderStyle": {"value":"{border.style.solid.value}"},
+    "borderThickness": {"value":"{border.width.1.value}"},
     "borderColor": {"value": "{color.transparent.value}"},
     "height": "48px",
     "inlineTextPaddingLeft": {"value":"{spacing.03.value}"},
@@ -42,6 +62,9 @@
     "textPaddingLeft": {"value":"{spacing.04.value}"},
     "textPaddingRight": {"value":"{spacing.04.value}"},
     "textPaddingTop": {"value":"{spacing.00.value}"},
-    "textPaddingBottom": {"value":"{spacing.00.value}"}
+    "textPaddingBottom": {"value":"{spacing.00.value}"},
+    "hoverActionBackgroundColor": {"value":"{color.grey.a.100.value}"},
+    "activeActionBackgroundColor": {"value":"{color.grey.a.200.value}"},
+    "focusActionBorderColor": {"value":"{color.blue.500.value}"}
   }
 }
