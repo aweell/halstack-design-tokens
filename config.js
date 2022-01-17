@@ -16,6 +16,7 @@ module.exports = {
     "src/components/alert.json",
     "src/components/box.json",
     "src/components/button.json",
+    "src/components/card.json",
     "src/components/checkbox.json",
     "src/components/chip.json",
     "src/components/radio.json",
