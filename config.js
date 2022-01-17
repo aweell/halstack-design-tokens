@@ -19,6 +19,7 @@ module.exports = {
     "src/components/card.json",
     "src/components/checkbox.json",
     "src/components/chip.json",
+    "src/components/date.json",
     "src/components/radio.json",
   ],
   "platforms": {
