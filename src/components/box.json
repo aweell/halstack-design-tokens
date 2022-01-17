@@ -2,14 +2,17 @@
     "box": {
       "backgroundColor": {"value": "{color.white.value}"},
       "borderRadius": {"value":"{border.radius.medium.value}"},
-      "borderThickness": {"value":"{border.width.1.value}"},
-      "borderStyle": {"value":"{border.style.solid.value}"},
-      "borderColor": {"value": "{color.grey.400.value}"},
-      "bordered": {
+      "borderThickness": {"value":"{border.width.0.value}"},
+      "borderStyle": {"value":"{border.style.none.value}"},
+      "borderColor": {"value": "{color.transparent.value}"},
+      "none": {
         "shadow": {"value": "{shadow.none.value}"}
       },
-      "raised": {
-        "shadow":{"value": "{shadow.default.value}"}
+      "one": {
+        "shadow": {"value": "{shadow.default.value}"}
+      },
+      "two": {
+        "shadow":{"value": "{shadow.high.value}"}
       }
   }
 }
