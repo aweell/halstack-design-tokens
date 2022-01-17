@@ -22,6 +22,7 @@ module.exports = {
     "src/components/date.json",
     "src/components/dialog.json",
     "src/components/dropdown.json",
+    "src/components/fileInput.json",
     "src/components/radio.json",
   ],
   "platforms": {
