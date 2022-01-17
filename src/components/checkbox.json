@@ -3,21 +3,19 @@
           "selected":{
             "backgroundColor": {"value": "{color.blue.800.value}"},
             "hoverBackgroundColor": {"value": "{color.blue.900.value}"},
-            "disabledBackgroundColor": {"value": "{color.grey.500.value}"}
+            "disabledBackgroundColor": {"value": "{color.grey.500.value}"},
+            "disabledCheckColor": {"value": "{color.white.value}"}
           },
         "borderColor": {"value": "{color.blue.800.value}"},
         "hoverBorderColor": {"value": "{color.blue.900.value}"},
         "disabledBorderColor": {"value": "{color.grey.500.value}"},
-        "checkColor": {"value": "{color.white.value}"},
-        "disabledCheckColor": {"value": "{color.white.value}"},
+        "checkColor": {"value": "{color.white.value}"},       
         "fontFamily": {"value": "{font.family.sans.value}"},
         "fontSize": {"value": "{font.scale.02.value}"},
         "fontWeight": {"value": "{font.weight.regular.value}"},
         "fontColor": {"value": "{color.black.value}"},
         "disabledFontColor": {"value": "{color.grey.500.value}"},
         "focusColor": {"value": "{color.blue.600.value}"},
-        "inputMargin": {"value": "{spacing.8.value}"},
-        "groupVerticalSpacing": {"value": "{spacing.16.value}"},
-        "groupHorizontalSpacing": {"value": "{spacing.32.value}"}
+        "checkLabelSpacing": {"value": "{spacing.8.value}"}
   }
 }
