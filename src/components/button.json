@@ -8,19 +8,12 @@
             "activeBackgroundColor": {"value": "{color.purple.900.value}"},
             "disabledBackgroundColor": {"value": "{color.grey.100.value}"},
             "disabledFontColor": {"value": "{color.grey.500.value}"},
-            "focusBorderColor": {"value": "{color.blue.600.value}"},
             "borderWidth": {"value":"{border.width.0.value}"},
             "borderStyle": {"value":"{border.style.none.value}"},
             "borderRadius": {"value":"{border.radius.medium.value}"},
             "fontFamily": {"value": "{font.family.sans.value}"},
             "fontSize": {"value": "{font.scale.03.value}"},
-            "fontWeight": {"value": "{font.weight.regular.value}"},
-            "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
-            "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "primaryPaddingLeft": {"value": "{spacing.16.value}"},
-            "primaryPaddingRight": {"value": "{spacing.16.value}"},
-            "primaryPaddingTop": {"value": "{spacing.8.value}"},
-            "primaryPaddingBottom": {"value": "{spacing.8.value}"}
+            "fontWeight": {"value": "{font.weight.regular.value}"}
         },
         "secondary": {
             "backgroundColor": {"value": "{color.transparent.value}"},
@@ -32,19 +25,12 @@
             "hoverBackgroundColor": {"value": "{color.purple.700.value}"},
             "disabledBorderColor": {"value": "{color.grey.500.value}"},
             "disabledFontColor": {"value": "{color.grey.500.value}"},
-            "focusBorderColor": {"value": "{color.blue.600.value}"},
             "borderWidth": {"value":"{border.width.1.value}"},
             "borderStyle": {"value":"{border.style.solid.value}"},
             "borderRadius": {"value":"{border.radius.medium.value}"},
             "fontFamily": {"value": "{font.family.sans.value}"},
             "fontSize": {"value": "{font.scale.03.value}"},
-            "fontWeight": {"value": "{font.weight.regular.value}"},
-            "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
-            "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "secondaryPaddingLeft": {"value": "{spacing.16.value}"},
-            "secondaryPaddingRight": {"value": "{spacing.16.value}"},
-            "secondaryPaddingTop": {"value": "{spacing.8.value}"},
-            "secondaryPaddingBottom": {"value": "{spacing.8.value}"}
+            "fontWeight": {"value": "{font.weight.regular.value}"}
         },
         "text": {
             "backgroundColor": {"value": "{color.transparent.value}"},
@@ -54,19 +40,19 @@
             "activeBackgroundColor": {"value": "{color.purple.200.value}"},
             "disabledFontColor": {"value": "{color.grey.500.value}"},
             "disabledBackgroundColor": {"value": "{color.transparent.value}"},
-            "focusBorderColor": {"value": "{color.blue.600.value}"},
             "borderThickness": {"value":"{border.width.0.value}"},
             "borderStyle": {"value":"{border.style.none.value}"},
             "borderRadius": {"value":"{border.radius.medium.value}"},
             "fontFamily": {"value": "{font.family.sans.value}"},
             "fontSize": {"value": "{font.scale.03.value}"},
-            "fontWeight": {"value": "{font.weight.regular.value}"},
-            "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
-            "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
-            "textPaddingLeft": {"value": "{spacing.16.value}"},
-            "textPaddingRight": {"value": "{spacing.16.value}"},
-            "textPaddingTop": {"value": "{spacing.8.value}"},
-            "textPaddingBottom": {"value": "{spacing.8.value}"}
-        }
+            "fontWeight": {"value": "{font.weight.regular.value}"}
+        },
+        "labelFontLineHeight": {"value": "{font.leading.normal.value}"},
+        "labelLetterSpacing": {"value": "{font.tracking.normal.value}"},
+        "paddingLeft": {"value": "{spacing.8.value}"},
+        "paddingRight": {"value": "{spacing.8.value}"},
+        "paddingTop": {"value": "{spacing.8.value}"},
+        "paddingBottom": {"value": "{spacing.8.value}"},
+        "focusBorderColor": {"value": "{color.blue.600.value}"}
     } 
 }
