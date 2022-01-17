@@ -1,0 +1,19 @@
+{
+    "date": {
+      "pickerSelectedDateBackgroundColor": {"value": "{color.purple.700.value}"},
+      "pickerSelectedDateColor": {"value": "{color.white.value}"},
+      "pickerBackgroundColor": {"value": "{color.white.value}"},
+      "pickerFontColor": {"value": "{color.black.value}"},
+      "pickerHoverDateBackgroundColor": {"value": "{color.purple.200.value}"},
+      "pickerHoverDateFontColor": {"value": "{color.black.value}"},
+      "pickerCurrentDateColor": {"value": "{color.grey.500.value}"},
+      "pickerYearFontColor": {"value": "{color.black.value}"},
+      "pickerMonthFontColor": {"value": "{color.black.value}"},
+      "pickerWeekFontColor": {"value": "{color.black.value}"},
+      "pickerMonthArrowsBackgroundColor": {"value": "{color.transparent.value}"},
+      "focusColor": {"value": "{color.blue.600.value}"},
+      "fontFamily": {"value": "{font.family.sans.value}"},
+      "pickerHeight": "316px",
+      "pickerWidth": "290px"
+  }
+}

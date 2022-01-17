@@ -1,0 +1,17 @@
+{
+    "dialog": {
+      "overlayColor": {"value": "{color.grey.a.800.value}"},
+      "backgroundColor": {"value": "{color.white.value}"},
+      "closeIconWidth": {"value": "{size.icon.large.value}"},
+      "closeIconHeight": "24px",
+      "closeIconTopPosition": "20px",
+      "closeIconRightPosition": "20px",
+      "closeIconBackgroundColor": {"value": "{color.transparent.value}"},
+      "closeIconBorderColor": {"value": "{color.transparent.value}"},
+      "closeIconColor": {"value": "{color.black.value}"},
+      "closeIconBorderThickness": {"value":"{border.width.0.value}"},
+      "closeIconBorderStyle": {"value":"{border.style.none.value}"},
+      "closeIconBorderRadius": {"value":"{border.radius.none.value}"},
+      "boxShadow": {"value": "{shadow.default.value}"}
+  }
+}

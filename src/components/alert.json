@@ -1,47 +1,72 @@
 {
     "alert": {
-    "overlayColor": {"value": "{color.black.value}"},
-    "infoBackgroundColor": {"value": "{color.blue.100.value}"},
-    "successBackgroundColor": {"value": "{color.green.100.value}"},
-    "warningBackgroundColor": {"value": "{color.yellow.100.value}"},
-    "errorBackgroundColor": {"value": "{color.red.100.value}"},
+    "overlayColor": {"value": "{color.grey.a.800.value}"},
+
+    "info":{
+      "backgroundColor": {"value": "{color.blue.100.value}"},
+      "borderColor": {"value": "{color.blue.800.value}"},
+      "iconColor": {"value": "{color.blue.800.value}"}
+    },
+
+    "success":{
+      "backgroundColor": {"value": "{color.green.100.value}"},
+      "borderColor": {"value": "{color.green.700.value}"},
+      "iconColor": {"value": "{color.green.700.value}"}
+    },
+
+    "warning":{
+      "backgroundColor": {"value": "{color.yellow.100.value}"},
+      "borderColor": {"value": "{color.yellow.700.value}"},
+      "iconColor": {"value": "{color.yellow.700.value}"}
+    },
+
+    "error":{
+      "backgroundColor": {"value": "{color.red.100.value}"},
+      "borderColor": {"value": "{color.red.700.value}"},
+      "iconColor": {"value": "{color.red.700.value}"}
+    },
+
     "focusColor": {"value": "{color.blue.600.value}"},
+
     "titleFontFamily": {"value": "{font.family.sans.value}"},
     "titleFontSize": {"value": "{font.scale.01.value}"},
     "titleFontColor": {"value": "{color.black.value}"},
     "titleFontWeight": {"value": "{font.weight.bold.value}"},
     "titleTextTransform": {"value": "{font.transform.uppercase.value}"},
     "titleFontStyle": {"value": "{font.style.normal.value}"},
-    "titlePaddingRight": {"value":"{spacing.03.value}"},
-    "titlePaddingLeft": {"value":"{spacing.00.value}"},
-    "titlePaddingTop": {"value":"{spacing.04.value}"},
-    "titlePaddingBottom": {"value":"{spacing.04.value}"},
-    "contentFontFamily": {"value": "{font.family.sans.value}"},
-    "contentFontSize": {"value": "{font.scale.01.value}"},
-    "contentFontColor": {"value": "{color.black.value}"},
-    "contentFontWeight": {"value": "{font.weight.regular.value}"},
-    "contentPaddingLeft": {"value":"{spacing.09.value}"},
-    "contentPaddingRight": {"value":"{spacing.04.value}"},
-    "contentPaddingTop": {"value":"{spacing.02.value}"},
-    "contentPaddingBottom": {"value":"{spacing.03.value}"},
-    "overlayOpacity": "0.8",
+    "titlePaddingRight": {"value":"{spacing.0.value}"},
+    "titlePaddingLeft": {"value":"{spacing.0.value}"},
+
+
+    "contentPaddingLeft": {"value":"{spacing.0.value}"},
+    "contentPaddingRight": {"value":"{spacing.0.value}"},
+    "contentPaddingTop": {"value":"{spacing.24.value}"},
+    "contentPaddingBottom": {"value":"{spacing.32.value}"},
+
     "borderRadius": {"value":"{border.radius.medium.value}"},
-    "borderStyle": {"value":"{border.style.none.value}"},
-    "borderThickness": {"value":"{border.width.0.value}"},
+    "borderStyle": {"value":"{border.style.solid.value}"},
+    "borderThickness": {"value":"{border.width.1.value}"},
     "borderColor": {"value": "{color.transparent.value}"},
-    "height": "48px",
-    "inlineTextPaddingLeft": {"value":"{spacing.03.value}"},
-    "inlineTextPaddingRight": {"value":"{spacing.03.value}"},
-    "inlineTextPaddingTop": {"value":"{spacing.00.value}"},
-    "inlineTextPaddingBottom": {"value":"{spacing.00.value}"},
-    "iconPaddingLeft": {"value":"{spacing.04.value}"},
-    "iconPaddingRight": {"value":"{spacing.00.value}"},
-    "iconPaddingTop": {"value":"{spacing.00.value}"},
-    "iconPaddingBottom": {"value":"{spacing.00.value}"},
-    "iconSize": {"value":"{size.icon.medium.value}"},
-    "textPaddingLeft": {"value":"{spacing.04.value}"},
-    "textPaddingRight": {"value":"{spacing.04.value}"},
-    "textPaddingTop": {"value":"{spacing.00.value}"},
-    "textPaddingBottom": {"value":"{spacing.00.value}"}
+
+
+    "inlineTextFontFamily": {"value": "{font.family.sans.value}"},
+    "inlineTextFontColor": {"value": "{color.black.value}"},
+    "inlineTextFontSize": {"value": "{font.scale.01.value}"},
+    "inlineTextFontStyle": {"value": "{font.style.normal.value}"},
+    "inlineTextFontWeight": {"value": "{font.weight.regular.value}"},
+    "inlineTextPaddingLeft": {"value":"{spacing.0.value}"},
+    "inlineTextPaddingRight": {"value":"{spacing.0.value}"},
+
+
+    "iconPaddingLeft": {"value":"{spacing.0.value}"},
+    "iconPaddingRight": {"value":"{spacing.0.value}"},
+    "iconPaddingTop": {"value":"{spacing.0.value}"},
+    "iconPaddingBottom": {"value":"{spacing.0.value}"},
+    "iconSize": {"value":"{size.icon.large.value}"},
+
+
+    "hoverActionBackgroundColor": {"value":"{color.grey.a.100.value}"},
+    "activeActionBackgroundColor": {"value":"{color.grey.a.200.value}"},
+    "focusActionBorderColor": {"value":"{color.blue.500.value}"}
   }
 }

@@ -16,8 +16,12 @@ module.exports = {
     "src/components/alert.json",
     "src/components/box.json",
     "src/components/button.json",
+    "src/components/card.json",
     "src/components/checkbox.json",
     "src/components/chip.json",
+    "src/components/date.json",
+    "src/components/dialog.json",
+    "src/components/dropdown.json",
     "src/components/radio.json",
   ],
   "platforms": {
@@ -32,7 +36,7 @@ module.exports = {
       "buildPath": "dist/css/"
     },
     "js": {
-      "transforms": ["attribute/cti", "name/cti/camel", "color/hex"],
+      "transforms": ["attribute/cti", "name/cti/camel", "color/hex8"],
       "files": [
         {
           "destination": "tokens.js",
