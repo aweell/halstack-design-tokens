@@ -20,6 +20,8 @@ module.exports = {
     "src/components/checkbox.json",
     "src/components/chip.json",
     "src/components/date.json",
+    "src/components/dialog.json",
+    "src/components/dropdown.json",
     "src/components/radio.json",
   ],
   "platforms": {
