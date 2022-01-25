@@ -66,7 +66,7 @@
 
 
     "hoverActionBackgroundColor": {"value":"{color.grey.a.100.value}"},
-    "activeActionBackgroundColor": {"value":"{color.grey.a.200.value}"},
+    "activeActionBackgroundColor": {"value":"{color.grey.a.300.value}"},
     "focusActionBorderColor": {"value":"{color.blue.500.value}"}
   }
 }
