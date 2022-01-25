@@ -8,6 +8,10 @@ Updated list of the halstack design tokens.
 npm i @aweell/halstack-design-tokens
 ```
 
+## Current component tokens
+
+https://github.com/dxc-technology/halstack-react/blob/master/lib/src/common/variables.js
+
 ## Style dictionary
 
 The token ./dist folder files are built using [style dictionary](https://amzn.github.io/style-dictionary/#/)

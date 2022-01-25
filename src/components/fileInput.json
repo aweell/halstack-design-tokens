@@ -46,9 +46,7 @@
       "fileItemBorderThickness": {"value":"{border.width.1.value}"},
       "fileItemBorderStyle": {"value":"{border.style.solid.value}"},
       "fileItemBorderRadius": {"value":"{border.radius.medium.value}"},
-      "hoverDeleteFileItemBackgroundColor": {"value": "{color.grey.100.value}"},
-      "activeDeleteFileItemBackgroundColor": {"value": "{color.grey.300.value}"},
-      "errorHoverDeleteFileItemBackgroundColor": {"value":"{color.grey.a.100.value}"},
-      "errorActiveDeleteFileItemBackgroundColor": {"value":"{color.grey.a.200.value}"}
+      "hoverDeleteFileItemBackgroundColor": {"value": "{color.grey.a.100.value}"},
+      "activeDeleteFileItemBackgroundColor": {"value": "{color.grey.a.300.value}"}
   }
 }
