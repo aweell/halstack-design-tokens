@@ -1,0 +1,11 @@
+{
+    "footer": {
+    "height": {"value": "124px"},
+    "backgroundColor": {"value": "{color.black.value}"},
+    "bottomLinksDividerColor": {"value": "{color.blue.600.value}"},
+    "bottomLinksDividerThickness": {"value": "{border.width.1.value}"},
+    "bottomLinksDividerStyle": {"value": "solid"},
+    "bottomLinksDividerSpacing": {"value": "8px"},
+    "bottomLinksFontFamily": {"value": "{font.family.sans.value}"}
+    }
+}
