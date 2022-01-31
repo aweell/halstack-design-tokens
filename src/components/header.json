@@ -1,0 +1,35 @@
+{
+    "header": {
+        "backgroundColor": {"value": "{color.white.value}"},
+        "hamburguerFocusColor": {"value": "{color.blue.600.value}"},
+        "hamburguerFontFamily": {"value": "{font.family.sans.value}"},
+        "hamburguerFontStyle": {"value": "{font.style.normal.value}"},
+        "hamburguerFontColor": {"value": "{color.black.value}"},
+        "hamburguerFontSize": {"value": "10px"},
+        "hamburguerFontWeight": {"value": "{font.weight.semibold.value}"},
+        "hamburguerTextTransform": {"value": "{font.transform.uppercase.value}"},
+        "hamburguerIconColor": {"value": "{color.black.value}"},
+        "hamburguerHoverColor": {"value":"#b1b1b1"},                                /* globalTokens.mediumGreyBlack, */
+        "logo": {"value": "headerLogo"},
+        "logoResponsive": {"value": "headerLogoResponsive"},
+        "logoHeight": {"value": "40px"},
+        "logoWidth": {"value": "auto"},
+        "menuBackgroundColor": {"value": "{color.white.value}"},
+        "menuZindex": {"value": "2000"},
+        "menuTabletWidth": {"value": "60vw"},
+        "menuMobileWidth": {"value": "100vw"},
+        "minHeight": {"value": "64px"},
+        "overlayColor": {"value":"#565656"},                                        /* globalTokens.softBlack */,
+        "overlayOpacity": {"value": "0.7"},
+        "overlayZindex": {"value": "1600"},
+        "paddingTop": {"value": "0px"},
+        "paddingBottom": {"value": "0px"},
+        "paddingRight": {"value": "24px"},
+        "paddingLeft": {"value": "24px"},
+        "underlinedColor": {"value": "{color.black.value}"},
+        "underlinedThickness": {"value": "2px"},
+        "underlinedStyle": {"value": "solid"},
+        "contentColor": {"value": "{color.black.value}"},
+        "contentColorOnDark": {"value": "{color.white.value}"}
+    }
+}
