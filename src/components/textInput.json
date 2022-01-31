@@ -1,0 +1,95 @@
+{
+    "textInput": {
+        "fontFamily": {"value": "{font.family.sans.value}"},
+        "enabledBorderColor": {"value": "{color.black.value}"},
+        "enabledBorderColorOnDark": {"value": "{color.white.value}"},
+        "hoverBorderColor": {"value": "{color.purple.500.value}"},                          /* globalTokens.hal_purple_l_65, */
+        "hoverBorderColorOnDark": {"value": "{color.purple.500.value}"},                    /* globalTokens.hal_purple_l_65, */
+        "focusBorderColor": {"value": "{color.blue.600.value}"},                   
+        "focusBorderColorOnDark": {"value": "{color.blue.600.value}"},                      /* globalTokens.hal_blue_l_50, */
+        "disabledBorderColor": {"value": "{color.grey.500.value}"},                         /* globalTokens.hal_grey_l_60, */
+        "disabledBorderColorOnDark": {"value": "{color.grey.500.value}"},                   /* globalTokens.hal_grey_l_60, */
+        "disabledContainerFillColor": {"value": "{color.grey.100.value}"},                  /* globalTokens.hal_grey_l_95, */
+        "disabledContainerFillColorOnDark": {"value": "{color.grey.700.value}"},            /* globalTokens.hal_grey_s_40, */
+        "errorBorderColor": {"value": "{color.red.700.value}"},                             /* globalTokens.hal_red_s_41, */
+        "errorBorderColorOnDark": {"value": "{color.red.500.value}"},                       /* globalTokens.hal_red_s_41, */
+        "hoverErrorBorderColor": {"value": "{color.red.600.value}"},                        /* globalTokens.color_red_600, */
+        "hoverErrorBorderColorOnDark": {"value": "{color.red.400.value}"},                  /* "#fe677b", */
+        "inputMarginTop": {"value":"{spacing.2.value}"},
+        "inputMarginBottom": {"value":"{spacing.2.value}"},
+        "errorMessageColor": {"value": "{color.red.700.value}"},                            /* globalTokens.hal_red_s_41, */
+        "errorMessageColorOnDark": {"value": "{color.red.700.value}"},                      /* globalTokens.hal_red_s_41, */
+        "errorIconColor": {"value": "{color.red.700.value}"},                               /* globalTokens.hal_red_s_41, */
+        "errorIconColorOnDark": {"value": "{color.red.700.value}"},                         /* globalTokens.hal_red_s_41, */
+        "labelFontColor": {"value": "{color.black.value}"},
+        "labelFontColorOnDark": {"value": "{color.white.value}"},
+        "labelFontSize": {"value": "{font.scale.02.value}"},
+        "labelFontStyle": {"value": "{font.style.normal.value}"},
+        "labelFontWeight": {"value": "{font.weight.semibold.value}"},
+        "labelLineHeight": {"value": "font.leading.loose.01.value"},                        /* globalTokens.type_leading_loose_01, */
+        "disabledLabelFontColor": {"value": "{color.grey.500.value}"},                      /* globalTokens.hal_grey_l_60, */
+        "disabledLabelFontColorOnDark": {"value": "{color.grey.500.value}"},                /* globalTokens.hal_grey_l_60, */
+        "optionalLabelFontWeight": {"value": "{font.weight.regular.value}"},
+        "helperTextFontColor": {"value": "{color.black.value}"},
+        "helperTextFontColorOnDark": {"value": "{color.white.value}"},
+        "helperTextFontSize": {"value": "{font.scale.01.value}"},
+        "helperTextFontStyle": {"value": "{font.style.normal.value}"},
+        "helperTextFontWeight": {"value": "{font.weight.regular.value}"},
+        "helperTextLineHeight": {"value": "font.leading.compact.03.value"},                 /* globalTokens.type_leading_normal, */
+        "disabledHelperTextFontColor": {"value": "{color.grey.500.value}"},                 /* globalTokens.hal_grey_l_60, */
+        "disabledHelperTextFontColorOnDark": {"value": "{color.grey.500.value}"},           /* globalTokens.hal_grey_l_60, */
+        "prefixColor": {"value": "{color.grey.700.value}"},                                 /* globalTokens.hal_grey_s_40, */
+        "prefixColorOnDark": {"value": "{color.white.value}"},
+        "suffixColor": {"value": "{color.grey.700.value}"},                                 /* globalTokens.hal_grey_s_40, */
+        "suffixColorOnDark": {"value": "{color.white.value}"},
+        "disabledPrefixColor": {"value": "{color.grey.400.value}"},                         /* globalTokens.hal_grey_l_75, */
+        "disabledSuffixColor": {"value": "{color.grey.400.value}"},                         /* globalTokens.hal_grey_l_75, */
+        "disabledPrefixColorOnDark": {"value": "{color.grey.500.value}"},                   /* globalTokens.hal_grey_l_60, */
+        "disabledSuffixColorOnDark": {"value": "{color.grey.500.value}"},                   /* globalTokens.hal_grey_l_60, */
+        "placeholderFontColor": {"value": "{color.grey.800.a.value}"},                      /*  000000b3 */
+        "placeholderFontColorOnDark": {"value": "{color.grey.100.value}"},                  /* globalTokens.hal_grey_l_95, */
+        "disabledPlaceholderFontColor": {"value": "{color.grey.500.value}"},                /* globalTokens.hal_grey_l_60, */
+        "disabledPlaceholderFontColorOnDark": {"value": "{color.grey.500.value}"},          /* globalTokens.hal_grey_l_60, */
+        "valueFontColor": {"value": "{color.black.value}"},
+        "valueFontColorOnDark": {"value": "{color.white.value}"},
+        "valueFontSize": {"value": "{font.scale.03.value}"},
+        "valueFontStyle": {"value": "{font.style.normal.value}"},
+        "valueFontWeight": {"value": "{font.weight.regular.value}"},
+        "disabledValueFontColor": {"value": "{color.grey.500.value}"},                      /* globalTokens.hal_grey_l_60, */
+        "disabledValueFontColorOnDark": {"value": "{color.grey.500.value}"},                /* globalTokens.hal_grey_l_60, */
+        "actionIconColor": {"value": "{color.black.value}"},
+        "actionIconColorOnDark": {"value": "{color.white.value}"},
+        "disabledActionIconColor": {"value": "{color.grey.500.value}"},                     /* globalTokens.hal_grey_l_60, */
+        "disabledActionIconColorOnDark": {"value": "{color.grey.500.value}"},               /* globalTokens.hal_grey_l_60, */
+        "hoverActionIconColor": {"value": "{color.black.value}"},
+        "hoverActionIconColorOnDark": {"value": "{color.white.value}"},
+        "focusActionIconColor": {"value": "{color.black.value}"},
+        "focusActionIconColorOnDark": {"value": "{color.white.value}"},
+        "activeActionIconColor": {"value": "{color.black.value}"},
+        "activeActionIconColorOnDark": {"value": "{color.black.value}"},
+        "actionBackgroundColor": {"value": "{color.transparent.value}"},
+        "actionBackgroundColorOnDark": {"value": "{color.transparent.value}"},
+        "disabledActionBackgroundColor": {"value": "{color.transparent.value}"},
+        "disabledActionBackgroundColorOnDark": {"value": "{color.transparent.value}"},
+        "hoverActionBackgroundColor": {"value": "{color.grey.100.value}"},                  /* globalTokens.hal_grey_l_95, */
+        "hoverActionBackgroundColorOnDark": {"value": "{color.grey.700.value}"},            /* globalTokens.hal_grey_s_40, */
+        "focusActionBorderColor": {"value": "{color.blue.600.value}"},                      /*  globalTokens.hal_blue_l_50, */
+        "focusActionBorderColorOnDark": {"value": "{color.blue.600.value}"},                /*  globalTokens.hal_blue_l_50, */
+        "activeActionBackgroundColor": {"value": "{color.grey.300.value}"},                 /* globalTokens.hal_grey_l_80, */
+        "activeActionBackgroundColorOnDark": {"value": "{color.grey.500.value}"},           /* globalTokens.hal_grey_l_60, */
+        "listDialogBackgroundColor": {"value": "{color.white.value}"},
+        "listDialogBorderColor": {"value": "{color.black.value}"},
+        "listOptionDividerColor": {"value": "{color.grey.200.value}"},                      /* globalTokens.hal_grey_l_90, */
+        "listOptionFontColor": {"value": "{color.black.value}"},
+        "listOptionFontSize": {"value": "{font.scale.02.value}"},
+        "listOptionFontStyle": {"value": "{font.style.normal.value}"},
+        "listOptionFontWeight": {"value": "{font.weight.regular.value}"},
+        "systemMessageFontColor": {"value": "{color.grey.700.value}"},                      /* globalTokens.hal_grey_s_40, */
+        "errorListDialogFontColor": {"value": "{color.black.value}"},
+        "errorListDialogBackgroundColor": {"value": "{color.red.50.value}"},                /* globalTokens.color_red_50, */
+        "errorListDialogBorderColor": {"value": "{color.red.700.value}"},                   /* globalTokens.hal_red_s_41, */
+        "hoverListOptionBackgroundColor": {"value": "{color.grey.100.value}"},              /* globalTokens.hal_grey_l_95, */
+        "activeListOptionBackgroundColor": {"value": "{color.grey.500.value}"},             /* globalTokens.hal_grey_l_80, */
+        "focusListOptionBorderColor": {"value": "{color.blue.600.value}"}                  /* globalTokens.hal_blue_l_50 */
+      }
+}
