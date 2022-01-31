@@ -3,8 +3,8 @@
 	    "height": {"value": "124px"},
 	    "backgroundColor": {"value": "{color.black.value}"},
 	    "bottomLinksDividerColor":  {"value": "{color.blue.50.value}"},
-	    "bottomLinksDividerThickness": {"value": "1px"},
-	    "bottomLinksDividerStyle": {"value": "solid"},
+	    "bottomLinksDividerThickness": {"value": "{border.width.1.value}"},
+	    "bottomLinksDividerStyle": {"value": "{border.style.solid.value}"},
 	    "bottomLinksDividerSpacing": {"value":"{spacing.8.value}"},
 	    "bottomLinksFontFamily": {"value": "{font.family.sans.value}"},
 	    "bottomLinksFontSize": {"value": "{font.scale.01.value}"},
@@ -20,8 +20,8 @@
 	    "logo": {"value": "footerLogo"},
 	    "logoHeight": {"value": "32px"},
 	    "logoWidth": {"value": "auto"},
-	    "socialLinksSize": {"value": "24px"},
-	    "socialLinksGutter": {"value": "16px"},
+	    "socialLinksSize": {"value": "{size.icon.medium.value}"},
+	    "socialLinksGutter": {"value": "{spacing.16.value}"},
 	    "socialLinksColor": {"value": "{color.white.value}"}
 	}
 }
