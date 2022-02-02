@@ -1,0 +1,36 @@
+{
+  "sidenav": {
+      "backgroundColor": {"value": "color.grey.100.value"},                     /* globalTokens.hal_grey_l_95, */
+      "arrowContainerColor": {"value": "color.grey.100.value"},                 /* globalTokens.hal_grey_l_90, */
+      "arrowColor": {"value": "color.black.value"},                             /* globalTokens.hal_black, */
+      "titleFontFamily": {"value": "font.family.sans.value"},                   /* globalTokens.type_sans, */
+      "titleFontSize": {"value": "font.scale.05.value"},                        /* globalTokens.type_scale_05, */
+      "titleFontStyle": {"value": "font.style.normal.value"},                   /* globalTokens.type_normal, */
+      "titleFontWeight": {"value": "font.weight.regular.value"},                /* globalTokens.type_regular, */
+      "titleFontColor": {"value": "color.black.value"},                         /* globalTokens.hal_black, */
+      "titleFontTextTransform": {"value": "none"},                              /* "none", */
+      "titleFontLetterSpacing": {"value": "type.tracking.normal.value"},        /* globalTokens.type_spacing_normal, */
+      "subtitleFontFamily": {"value": "font.family.sans.value"},                /* globalTokens.type_sans, */
+      "subtitleFontSize": {"value": "font.scale.03.value"},                     /* globalTokens.type_scale_03, */
+      "subtitleFontStyle": {"value": "font.style.normal.value"},                /* globalTokens.type_normal, */
+      "subtitleFontWeight": {"value": "font.weight.regular.value"},             /* globalTokens.type_regular, */
+      "subtitleFontColor": {"value": "color.grey.800.value"},                   /* globalTokens.color_grey_800, */
+      "subtitleFontTextTransform": {"value": "font.transform.uppercase.value"}, /* globalTokens.type_uppercase, */
+      "subtitleFontLetterSpacing": {"value": "font.tracking.wide.02.value"},    /* globalTokens.type_spacing_wide_02, */
+      "linkFontFamily": {"value": "font.family.sans.value"},                    /* globalTokens.type_sans, */
+      "linkFontSize": {"value": "font.scale.02.value"},                         /* globalTokens.type_scale_02, */
+      "linkFontStyle": {"value": "font.style.normal.value"},                    /* globalTokens.type_normal, */
+      "linkFontWeight": {"value": "font.weight.regular.value"},                 /* globalTokens.type_regular, */
+      "linkFontColor": {"value": "color.grey.800.value"},                       /* globalTokens.color_grey_800, */
+      "linkFontTextTransform": {"value": "none"},                               /* "none", */
+      "linkFontLetterSpacing": {"value": "font.tracking.wide.01.value"},        /* globalTokens.type_spacing_wide_01, */
+      "linkTextDecoration": {"value": "font.decoration.no-line"},               /* globalTokens.type_no_line, */
+      "linkMarginTop": {"value": "4px"},                                        /* "4px", */
+      "linkMarginBottom": {"value": "4px"},                                     /* "4px", */
+      "linkMarginRight": {"value": "16px"},                                     /* "16px", */
+      "linkMarginLeft": {"value": "16px"},                                      /* "16px", */
+      "linkFocusColor": {"value": "color.blue.600.value"},                      /* globalTokens.hal_blue_l_50, */
+      "scrollBarThumbColor": {"value": "#66666626"},                            /* "#66666626", */
+      "scrollBarTrackColor": {"value": "transparent"}                           /* globalTokens.transparent */
+  }
+}

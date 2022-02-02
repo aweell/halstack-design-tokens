@@ -1,0 +1,21 @@
+{
+  "paginator": {
+      "backgroundColor": {"value":"#eeeeee"},                     /* globalTokens.darkWhite, */
+      "fontColor": {"value":"font.color.black.value"},            /* globalTokens.hal_black, */
+      "fontFamily": {"value":"font.family.sans.value"},           /* globalTokens.type_sans, */
+      "fontSize": {"value":"font.scale.02.value"},                /* globalTokens.type_scale_02, */
+      "fontStyle": {"value":"font.style.normal.value"},           /* globalTokens.type_normal, */
+      "fontWeight": {"value":"font.wieght.regular.value"},        /* globalTokens.type_regular, */
+      "fontTextTransform": {"value": "none"},                     /* "none" */
+      "height": {"value": "64px"},                                /* "64px" */
+      "width": {"value": "100%"},                                 /* "100%" */
+      "marginRight": {"value": "40px"},                           /* "40px" */
+      "marginLeft": {"value": "20px"},                            /* "20px" */
+      "itemsPerPageSelectorMarginLeft": {"value": "0px"},         /* "0px" */
+      "itemsPerPageSelectorMarginRight": {"value": "30px"},       /* "30px" */
+      "pageSelectorMarginRight": {"value": "30px"},               /* "30px" */
+      "pageSelectorMarginLeft": {"value": "0px"},                 /* "0px" */
+      "totalItemsContainerMarginRight": {"value": "30px"},        /* "30px" */
+      "totalItemsContainerMarginLeft": {"value": "0px"}           /* "0px" */
+  }
+}
