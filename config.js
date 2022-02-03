@@ -23,11 +23,16 @@ module.exports = {
     "src/components/dialog.json",
     "src/components/dropdown.json",
     "src/components/fileInput.json",
+     "src/components/footer.json",
+    "src/components/header.json",
+    "src/components/heading.json",
+    "src/components/textInput.json"
     "src/components/radio.json",
     "src/components/select.json",
     "src/components/sidenav.json",
     "src/components/slider.json",
     "src/components/spinner.json",
+
   ],
   "platforms": {
     "css": {
