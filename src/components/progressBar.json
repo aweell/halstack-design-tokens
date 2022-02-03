@@ -1,31 +1,30 @@
 {
   "progressBar": {
-      "trackLineColor": {"value":"color.purple.700.value"},                        /* globalTokens.hal_purple_s_38, */
-      "trackLineColorOnDark": {"value":"color.purple.500.value"},                  /* globalTokens.hal_purple_l_65, */
-      "totalLineColor": {"value":"#cecece"},                                       /* globalTokens.softGrey, */
-      "labelFontFamily": {"value":"font.family.sans.value"},                       /* globalTokens.type_sans, */
-      "labelFontSize": {"value":"font.scale.01.value"},                            /* globalTokens.type_scale_01, */
-      "labelFontStyle": {"value":"font.style.normal.value"},                       /* globalTokens.type_normal, */
-      "labelFontWeight": {"value":"font.wieght.regular.value"},                    /* globalTokens.type_regular, */
-      "labelFontColor": {"value":"color.black.value"},                             /* globalTokens.black, */
-      "labelFontColorOnDark": {"value":"color.white.value"},                       /* globalTokens.hal_white, */
-      "labelFontTextTransform": {"value":"font.transform.uppercase.value"},        /* globalTokens.type_uppercase, */
-      "valueFontFamily": {"value":"font.family.sans.value"},                       /* globalTokens.type_sans, */
-      "valueFontSize": {"value":"font.scale.01.value"},                            /* globalTokens.type_scale_01, */
-      "valueFontStyle": {"value":"font.style.normal.value"},                       /* globalTokens.type_normal, */
-      "valueFontWeight": {"value":"font.wieght.regular.value"},                    /* globalTokens.type_regular, */
-      "valueFontColor": {"value":"color.black.value"},                             /* globalTokens.black, */
-      "valueFontColorOnDark": {"value":"color.white.value"},                       /* globalTokens.hal_white, */
-      "valueFontTextTransform": {"value":"font.transform.uppercase.value"},        /* globalTokens.type_uppercase, */
-      "helperTextFontColor": {"value":"color.black.value"},                        /* globalTokens.black, */
-      "helperTextFontColorOnDark": {"value":"color.white.value"},                  /* globalTokens.hal_white, */
-      "helperTextFontSize": {"value":"font.scale.01.value"},                       /* globalTokens.type_scale_01, */
-      "helperTextFontStyle": {"value":"font.style.normal.value"},                  /* globalTokens.type_normal, */
-      "helperTextFontWeight": {"value":"font.wieght.regular.value"},               /* globalTokens.type_regular, */
-      "helperTextFontFamily": {"value":"font.family.sans.value"},                  /* globalTokens.type_sans, */
-      "thickness": {"value": "9px"},                                               /* "9px" */
-      "borderRadius": {"value": "5px"},                                            /* "5px" */
-      "overlayColor": {"value":"color.black.value"},                               /* globalTokens.black, */
-      "overlayOpacity": {"valur": "0.8"}                                           /* "0.8" */
+      "trackLineColor": {"value":"{color.purple.700.value}"},                       
+      "trackLineColorOnDark": {"value":"{color.purple.500.value}"},                 
+      "totalLineColor": {"value":"{color.grey.200.value}"},                         
+      "labelFontFamily": {"value":"{font.family.sans.value}"},                      
+      "labelFontSize": {"value":"{font.scale.01.value}"},                           
+      "labelFontStyle": {"value":"{font.style.normal.value}"},                      
+      "labelFontWeight": {"value":"{font.weight.regular.value}"},                   
+      "labelFontColor": {"value":"{color.black.value}"},                            
+      "labelFontColorOnDark": {"value":"{color.white.value}"},                      
+      "labelFontTextTransform": {"value":"{font.transform.uppercase.value}"},       
+      "valueFontFamily": {"value":"{font.family.sans.value}"},                      
+      "valueFontSize": {"value":"{font.scale.01.value}"},                           
+      "valueFontStyle": {"value":"{font.style.normal.value}"},                      
+      "valueFontWeight": {"value":"{font.weight.regular.value}"},                   
+      "valueFontColor": {"value":"{color.black.value}"},                            
+      "valueFontColorOnDark": {"value":"{color.white.value}"},                      
+      "valueFontTextTransform": {"value":"{font.transform.uppercase.value}"},       
+      "helperTextFontColor": {"value":"{color.black.value}"},                       
+      "helperTextFontColorOnDark": {"value":"{color.white.value}"},                 
+      "helperTextFontSize": {"value":"{font.scale.01.value}"},                      
+      "helperTextFontStyle": {"value":"{font.style.normal.value}"},                 
+      "helperTextFontWeight": {"value":"{font.weight.regular.value}"},              
+      "helperTextFontFamily": {"value":"{font.family.sans.value}"},                
+      "thickness": {"value": "9px"},                                               
+      "borderRadius": {"value": "5px"},                                            
+      "overlayColor": {"value":"{color.grey.a.800.value}"}                       
   }
 }
