@@ -1,69 +1,69 @@
 {
   "select": {
-      "fontFamily": {"value":"font.family.sans.value"},                                         /* globalTokens.type_sans, */
-      "disabledColor": {"value":"color.grey.500.value"},                                        /* globalTokens.hal_grey_l_60, */
-      "enabledInputBorderColor": {"value":"color.black.value"},                                 /* globalTokens.hal_black, */
-      "hoverInputBorderColor": {"value":"color.purple.500.value"},                              /* globalTokens.hal_purple_l_65, */
-      "focusInputBorderColor": {"value":"color.blue.600.value"},                                /* globalTokens.hal_blue_l_50, */
-      "errorInputBorderColor": {"value":"color.red.700.value"},                                 /* globalTokens.hal_red_s_41, */
-      "hoverInputErrorBorderColor": {"value":"color.red.600.value"},                            /* globalTokens.color_red_600, */
-      "disabledInputBorderColor": {"value":"color.grey.500.value"},                             /* globalTokens.hal_grey_l_60, */
-      "disabledInputBackgroundColor": {"value":"color.grey.100.value"},                         /* globalTokens.hal_grey_l_95, */
-      "inputMarginTop": {"value":"spacing.2.value"},                                            /* globalTokens.spacing_02, */
-      "inputMarginBottom": {"value":"spacing.2.value"},                                         /* globalTokens.spacing_02, */
-      "errorMessageColor": {"value":"color.red.700.value"},                                     /* globalTokens.hal_red_s_41, */
-      "errorIconColor": {"value":"color.red.700.value"},                                        /* globalTokens.hal_red_s_41, */
-      "labelFontColor": {"value":"color.black.value"},                                          /* globalTokens.hal_black, */
-      "labelFontSize": {"value":"font.scale.02.value"},                                         /* globalTokens.type_scale_02, */
-      "labelFontStyle": {"value":"font.style.normal.value"},                                    /* globalTokens.type_normal, */
-      "labelFontWeight": {"value":"font.weight.semibold.value"},                                /* globalTokens.type_semibold, */
-      "labelLineHeight": {"value": "font.leading.loose.01.value"},                              /* globalTokens.type_leading_loose_01, */
-      "optionalLabelFontWeight": {"value":"font.wieght.regular.value"},                         /* globalTokens.type_regular, */
-      "helperTextFontColor": {"value":"color.black.value"},                                     /* globalTokens.hal_black, */
-      "helperTextFontSize": {"value":"font.scale.01.value"},                                    /* globalTokens.type_scale_01, */
-      "helperTextFontStyle": {"value":"font.style.normal.value"},                               /* globalTokens.type_normal, */
-      "helperTextFontWeight": {"value":"font.wieght.regular.value"},                            /* globalTokens.type_regular, */
-      "helperTextLineHeight": {"value":"font.type.leading.normal"},                             /* globalTokens.type_leading_normal, */
-      "placeholderFontColor": {"value":"color.grey.a.800"},                                     /* "#000000b3", */
-      "valueFontColor": {"value":"color.black.value"},                                          /* globalTokens.hal_black, */
-      "valueFontSize": {"value":"font.scale.03.value"},                                         /* globalTokens.type_scale_03, */
-      "valueFontStyle": {"value":"font.style.normal.value"},                                    /* globalTokens.type_normal, */
-      "valueFontWeight": {"value":"font.wieght.regular.value"},                                 /* globalTokens.type_regular, */
-      "actionIconColor": {"value":"color.black.value"},                                         /* globalTokens.hal_black, */
-      "hoverActionIconColor": {"value":"color.black.value"},                                    /* globalTokens.hal_black, */
-      "activeActionIconColor": {"value":"color.black.value"},                                   /* globalTokens.hal_black, */
-      "actionBackgroundColor": {"value":"color.transparent.value"},                             /* globalTokens.transparent, */
-      "hoverActionBackgroundColor": {"value":"color.grey.100.value"},                           /* globalTokens.hal_grey_l_95, */
-      "activeActionBackgroundColor": {"value":"color.grey.300.value"},                          /* globalTokens.hal_grey_l_80, */
-      "listOptionFontColor": {"value":"color.black.value"},                                     /* globalTokens.hal_black, */
-      "listOptionFontSize": {"value":"font.scale.02.value"},                                    /* globalTokens.type_scale_02, */
-      "listOptionFontStyle": {"value":"font.style.normal.value"},                               /* globalTokens.type_normal, */
-      "listOptionFontWeight": {"value":"font.wieght.regular.value"},                            /* globalTokens.type_regular, */
-      "listOptionIconColor": {"value":"color.black.value"},                                     /* globalTokens.hal_black, */
-      "listOptionDividerColor": {"value":"color.grey.200.value"},                               /* globalTokens.hal_grey_l_90, */
-      "listGroupLabelFontWeight": {"value":"font.weight.semibold.value"},                       /* globalTokens.type_semibold, */
-      "focusListOptionBorderColor": {"value":"color.blue.600.value"},                           /* globalTokens.hal_blue_l_50, */
-      "systemMessageFontColor": {"value":"color.grey.700.value"},                               /* globalTokens.hal_grey_s_40, */
-      "collapseIndicatorColor": {"value":"color.black.value"},                                  /* globalTokens.hal_black, */
-      "listDialogBackgroundColor": {"value":"color.white.value"},                               /* globalTokens.hal_white, */
-      "listDialogBorderColor": {"value":"color.grey.400.value"},                                /* globalTokens.hal_grey_l_75, */
-      "selectedListOptionBackgroundColor": {"value":"color.blue.100.value"},                    /* globalTokens.hal_blue_l_95, */
-      "selectedHoverListOptionBackgroundColor": {"value":"color.blue.200.value"},               /* globalTokens.color_blue_200,  */
-      "selectedActiveListOptionBackgroundColor": {"value":"color.blue.300.value"},              /* globalTokens.hal_blue_l_80, */
-      "selectedListOptionIconColor": {"value":"color.blue.900.value"},                          /* globalTokens.hal_blue_d_20, */
-      "unselectedHoverListOptionBackgroundColor": {"value":"color.grey.100.value"},             /* globalTokens.hal_grey_l_95, */
-      "unselectedActiveListOptionBackgroundColor": {"value":"color.grey.200.value"},            /* globalTokens.hal_grey_l_90, */
-      "selectionIndicatorFontColor": {"value":"color.black.value"},                             /* globalTokens.hal_black, */
-      "selectionIndicatorFontSize": {"value":"font.scale.01.value"},                            /* globalTokens.type_scale_01, */
-      "selectionIndicatorFontStyle": {"value":"font.wieght.regular.value"},                     /* globalTokens.type_regular, */
-      "selectionIndicatorFontWeight": {"value":"font.style.normal.value"},                      /* globalTokens.type_normal, */
-      "selectionIndicatorBorderColor": {"value":"color.grey.400.value"},                        /* globalTokens.hal_grey_l_75, */
-      "selectionIndicatorBackgroundColor": {"value":"color.grey.50.value"},                     /* globalTokens.color_grey_50, */
-      "enabledSelectionIndicatorActionBackgroundColor": {"value":"color.transparent.value"},    /* globalTokens.transparent, */
-      "enabledSelectionIndicatorActionIconColor": {"value":"color.black.value"},                /* globalTokens.hal_black, */
-      "hoverSelectionIndicatorActionBackgroundColor": {"value":"color.grey.100.value"},         /* globalTokens.hal_grey_l_95, */
-      "hoverSelectionIndicatorActionIconColor": {"value":"color.black.value"},                  /* globalTokens.hal_black, */
-      "activeSelectionIndicatorActionBackgroundColor": {"value":"color.grey.300.value"},        /* globalTokens.hal_grey_l_80, */
-      "activeSelectionIndicatorActionIconColor": {"value":"color.black.value"}                  /* globalTokens.hal_black, */
+      "fontFamily": {"value":"{font.family.sans.value}"},                                        
+      "disabledColor": {"value":"{color.grey.500.value}"},                                        
+      "enabledInputBorderColor": {"value":"{color.black.value}"},                                
+      "hoverInputBorderColor": {"value":"{color.purple.500.value}"},                              
+      "focusInputBorderColor": {"value":"{color.blue.600.value}"},                                
+      "errorInputBorderColor": {"value":"{color.red.700.value}"},                                 
+      "hoverInputErrorBorderColor": {"value":"{color.red.600.value}"},                            
+      "disabledInputBorderColor": {"value":"{color.grey.500.value}"},                             
+      "disabledInputBackgroundColor": {"value":"{color.grey.100.value}"},                         
+      "inputMarginTop": {"value":"{spacing.2.value}"},                                            
+      "inputMarginBottom": {"value":"{spacing.2.value}"},                                         
+      "errorMessageColor": {"value":"{color.red.700.value}"},                                     
+      "errorIconColor": {"value":"{color.red.700.value}"},                                        
+      "labelFontColor": {"value":"{color.black.value}"},                                         
+      "labelFontSize": {"value":"{font.scale.02.value}"},                                         
+      "labelFontStyle": {"value":"{font.style.normal.value}"},                                    
+      "labelFontWeight": {"value":"{font.weight.semibold.value}"},                                
+      "labelLineHeight": {"value": "{font.leading.loose.01.value}"},                              
+      "optionalLabelFontWeight": {"value":"{font.weight.regular.value}"},                         
+      "helperTextFontColor": {"value":"{color.black.value}"},                                    
+      "helperTextFontSize": {"value":"{font.scale.01.value}"},                                    
+      "helperTextFontStyle": {"value":"{font.style.normal.value}"},                               
+      "helperTextFontWeight": {"value":"{font.weight.regular.value}"},                            
+      "helperTextLineHeight": {"value":"{font.leading.normal.value}"},                             
+      "placeholderFontColor": {"value":"{color.grey.a.800.value}"},                                    
+      "valueFontColor": {"value":"{color.black.value}"},                                         
+      "valueFontSize": {"value":"{font.scale.03.value}"},                                         
+      "valueFontStyle": {"value":"{font.style.normal.value}"},                                    
+      "valueFontWeight": {"value":"{font.weight.regular.value}"},                                 
+      "actionIconColor": {"value":"{color.black.value}"},                                        
+      "hoverActionIconColor": {"value":"{color.black.value}"},                                   
+      "activeActionIconColor": {"value":"{color.black.value}"},                                  
+      "actionBackgroundColor": {"value":"{color.transparent.value}"},                             
+      "hoverActionBackgroundColor": {"value":"{color.grey.100.value}"},                           
+      "activeActionBackgroundColor": {"value":"{color.grey.300.value}"},                          
+      "listOptionFontColor": {"value":"{color.black.value}"},                                    
+      "listOptionFontSize": {"value":"{font.scale.02.value}"},                                    
+      "listOptionFontStyle": {"value":"{font.style.normal.value}"},                               
+      "listOptionFontWeight": {"value":"{font.weight.regular.value}"},                            
+      "listOptionIconColor": {"value":"{color.black.value}"},                                    
+      "listOptionDividerColor": {"value":"{color.grey.200.value}"},                               
+      "listGroupLabelFontWeight": {"value":"{font.weight.semibold.value}"},                       
+      "focusListOptionBorderColor": {"value":"{color.blue.600.value}"},                           
+      "systemMessageFontColor": {"value":"{color.grey.700.value}"},                               
+      "collapseIndicatorColor": {"value":"{color.black.value}"},                                 
+      "listDialogBackgroundColor": {"value":"{color.white.value}"},                              
+      "listDialogBorderColor": {"value":"{color.grey.400.value}"},                                
+      "selectedListOptionBackgroundColor": {"value":"{color.blue.100.value}"},                    
+      "selectedHoverListOptionBackgroundColor": {"value":"{color.blue.200.value}"},               
+      "selectedActiveListOptionBackgroundColor": {"value":"{color.blue.300.value}"},              
+      "selectedListOptionIconColor": {"value":"{color.blue.900.value}"},                          
+      "unselectedHoverListOptionBackgroundColor": {"value":"{color.grey.100.value}"},             
+      "unselectedActiveListOptionBackgroundColor": {"value":"{color.grey.200.value}"},            
+      "selectionIndicatorFontColor": {"value":"{color.black.value}"},                            
+      "selectionIndicatorFontSize": {"value":"{font.scale.01.value}"},                            
+      "selectionIndicatorFontStyle": {"value":"{font.weight.regular.value}"},                     
+      "selectionIndicatorFontWeight": {"value":"{font.style.normal.value}"},                      
+      "selectionIndicatorBorderColor": {"value":"{color.grey.400.value}"},                        
+      "selectionIndicatorBackgroundColor": {"value":"{color.grey.50.value}"},                     
+      "enabledSelectionIndicatorActionBackgroundColor": {"value":"{color.transparent.value}"},    
+      "enabledSelectionIndicatorActionIconColor": {"value":"{color.black.value}"},               
+      "hoverSelectionIndicatorActionBackgroundColor": {"value":"{color.grey.100.value}"},         
+      "hoverSelectionIndicatorActionIconColor": {"value":"{color.black.value}"},                 
+      "activeSelectionIndicatorActionBackgroundColor": {"value":"{color.grey.300.value}"},        
+      "activeSelectionIndicatorActionIconColor": {"value":"{color.black.value}"}                 
   }
 }
