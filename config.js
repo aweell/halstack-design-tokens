@@ -26,7 +26,7 @@ module.exports = {
      "src/components/footer.json",
     "src/components/header.json",
     "src/components/heading.json",
-    "src/components/textInput.json"
+    "src/components/textInput.json",
     "src/components/radio.json",
     "src/components/select.json",
     "src/components/sidenav.json",
