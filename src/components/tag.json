@@ -1,0 +1,19 @@
+{
+  "tag": {
+      "fontFamily": {"value": "font.family.sans.value"},      /* globalTokens.type_sans, */
+      "fontColor": {"value": "color.black.value"},            /* globalTokens.hal_black, */
+      "fontSize": {"value": "font.scale.02.value"},           /* globalTokens.type_scale_02, */
+      "fontStyle": {"value": "font.style.normal.value"},      /* globalTokens.type_normal, */
+      "fontWeight": {"value": "font.weight.regular.value"},   /* globalTokens.type_regular, */
+      "labelPaddingTop": {"value": "0px"},                    /* "0px", */
+      "labelPaddingBottom": {"value": "0px"},                 /* "0px", */
+      "labelPaddingLeft": {"value": "16px"},                  /* "16px", */
+      "labelPaddingRight": {"value": "16px"},                 /* "16px", */
+      "height": {"value": "40px"},                            /* "40px", */
+      "iconColor": {"value": "color.white.value"},            /* globalTokens.hal_white, */
+      "iconSectionWidth": {"value": "40px"},                  /* "40px", */
+      "iconHeight": {"value": "24px"},                        /* "24px", */
+      "iconWidth": {"value": "auto"},                         /* "auto", */
+      "focusColor": {"value": "color.blue.600.value"}         /* globalTokens.hal_blue_l_50 */
+  }
+}

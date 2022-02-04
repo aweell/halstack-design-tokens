@@ -1,0 +1,65 @@
+{
+  "upload": {
+      "fontFamily": {"value": "font.family.sans.value"},                           /* globalTokens.type_sans, */
+      "shadowColor": {"value": "color.grey.100.value"},                            /* globalTokens.lightWhite, */
+      "scrollBarThumbColor":  {"value": "color.grey.700.value"},                   /* globalTokens.darkGrey, */
+      "scrollBarTrackColor":  {"value": "#D9D9D9"},                                /* globalTokens.lightGrey, */
+      "errorColor":  {"value": "color.red.700.value"},                             /* globalTokens.red, */
+      "backgroundColor":  {"value": "color.white.value"},                          /* globalTokens.white, */
+      "draggingStateBackgroundColor": {"value": "color.grey.100.value"},           /* globalTokens.lightWhite, */
+      "dragAndDropIconColor": {"value": "color.black.value"},                      /* globalTokens.black, */
+      "dragAndDropIconSize":  {"value": "43.5px"},                                 /* "43.5px", */
+      "dragAndDropTitleFontSize":  {"value": "font.scale.04.value"},               /* globalTokens.type_scale_04, */
+      "dragAndDropTitleFontStyle":  {"value": "font.style.normal.value"},          /* globalTokens.type_normal, */
+      "dragAndDropTitleFontWeight": {"value": "font.weight.bold.value"},           /* globalTokens.type_bold, */
+      "dragAndDropTitleFontTextTransform":  {"value": "none"},                     /* "none", */
+      "dragAndDropTitleFontColor": {"value": "color.black.value"},                 /* globalTokens.black, */
+      "dragAndDropDescriptionFontSize": {"value": "font.scale.03.value"},          /* globalTokens.type_scale_03, */
+      "dragAndDropDescriptionFontStyle":  {"value": "font.style.italic.value"},    /* globalTokens.type_italic, */
+      "dragAndDropDescriptionFontWeight": {"value":"font.weight.regular.value"},   /* globalTokens.type_regular, */
+      "dragAndDropDescriptionFontTextTransform": {"value": "none"},                /* "none", */
+      "dragAndDropDescriptionFontColor": {"value": "color.grey.700.value"},        /* globalTokens.darkGrey, */
+      "dragAndDropDraggingStateIconColor": {"value": "color.grey.700.value"},      /* globalTokens.darkGrey, */
+      "dragAndDropDraggingStateIconSize":  {"value": "74.5px"},                    /* "74.5px", */
+      "dragAndDropDraggingStateFontSize": {"value": "font.scale.03.value"},        /* globalTokens.type_scale_03, */
+      "dragAndDropDraggingStateFontStyle":  {"value": "font.style.italic.value"},  /* globalTokens.type_italic, */
+      "dragAndDropDraggingStateFontWeight": {"value":"font.weight.regular.value"}, /* globalTokens.type_regular, */
+      "dragAndDropDraggingStateFontTextTransform":  {"value": "none"},             /* "none", */
+      "dragAndDropDraggingStateFontColor": {"value": "color.grey.700.value"},      /* globalTokens.darkGrey, */
+      "dragAndDropAreaIconColor":  {"value": "color.grey.700.value"},              /* globalTokens.darkGrey, */
+      "dragAndDropAreaIconSize":   {"value": "24px"},                              /* "24px", */
+      "dragAndDropAreaTextFontSize": {"value": "font.scale.01.value"},             /* globalTokens.type_scale_01, */
+      "dragAndDropAreaTextFontStyle": {"value": "font.style.italic.value"},        /* globalTokens.type_italic, */
+      "dragAndDropAreaTextFontWeight": {"value":"font.weight.regular.value"},      /* globalTokens.type_regular, */
+      "dragAndDropAreaTextFontTextTransform":  {"value": "none"},                  /* "none", */
+      "dragAndDropAreaTextFontColor":  {"value": "color.grey.700.value"},          /* globalTokens.darkGrey, */
+      "fileDeleteIconColor":  {"value": "color.black.value"},                      /* globalTokens.black, */
+      "fileDeleteIconSize":  {"value": "30px"},                                    /* "30px", */
+      "fileUnderlineColor":  {"value": "#D9D9D9"},                                 /* globalTokens.lightGrey, */
+      "fileUnderlineThickness": {"value": "1px"},                                  /* "1px", */
+      "fileNameFontSize": {"value": "font.scale.03.value"},                        /* globalTokens.type_scale_03, */
+      "fileNameFontStyle":  {"value": "font.style.normal.value"},                  /* globalTokens.type_normal, */
+      "fileNameFontWeight": {"value":"font.weight.regular.value"},                 /* globalTokens.type_regular, */
+      "fileNameFontTextTransform": {"value": "none"},                              /* "none", */
+      "fileNameFontColor":  {"value": "color.black.value"},                        /* globalTokens.black, */
+      "fileTypeFontSize":  {"value": "font.scale.01.value"},                       /* globalTokens.type_scale_01, */
+      "fileTypeFontStyle":  {"value": "font.style.normal.value"},                  /* globalTokens.type_normal, */
+      "fileTypeFontWeight":  {"value":"font.weight.regular.value"},                /* globalTokens.type_regular, */
+      "fileTypeFontTextTransform": {"value":"font.transform.uppercase.value"},     /* globalTokens.type_uppercase, */
+      "fileTypeFontColor":  {"value": "color.grey.700.value"},                     /* globalTokens.darkGrey, */
+      "hoverFileColor":  {"value": "color.white.value"},                           /* globalTokens.white, */
+      "uploadedFileIconColor": {"value": "#D9D9D9"},                               /* globalTokens.lightGrey, */
+      "uploadedFileIconSize":  {"value": "24px"},                                  /* "24px", */
+      "uploadedFilesTitleFontSize":  {"value": "font.scale.04.value"},             /* globalTokens.type_scale_04, */
+      "uploadedFilesTitleFontStyle":  {"value": "font.style.normal.value"},        /* globalTokens.type_normal, */
+      "uploadedFilesTitleFontWeight": {"value":"font.weight.regular.value"},       /* globalTokens.type_regular, */
+      "uploadedFilesTitleFontTextTransform":  {"value": "none"},                   /* "none", */
+      "uploadedFilesTitleFontColor":  {"value": "color.black.value"},              /* globalTokens.black, */
+      "uploadedFilesSubtitleFontSize": {"value": "font.scale.01.value"},           /* globalTokens.type_scale_01, */
+      "uploadedFilesSubtitleFontStyle":  {"value": "font.style.normal.value"},     /* globalTokens.type_normal, */
+      "uploadedFilesSubtitleFontWeight": {"value":"font.weight.regular.value"},    /* globalTokens.type_regular, */
+      "uploadedFilesSubtitleFontTextTransform":  {"value": "none"},                /* "none", */
+      "uploadedFilesSubtitleFontColor": {"value": "color.grey.700.value"},         /* globalTokens.darkGrey, */
+      "uploadedFilesNumberFontWeight":  {"value": "font.weight.bold.value"}        /* globalTo */
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "table": {
+    "rowSeparatorThickness": {"value": "1px"},                      /* "1px", */
+    "rowSeparatorStyle": {"value": "solid"},                        /* "solid", */
+    "rowSeparatorColor": {"Value": "#D9D9D9"},                      /* globalTokens.lightGrey, */
+    "dataBackgroundColor": {"value": "color.white.value"},          /* globalTokens.white, */
+    "dataFontFamily": {"value": "font.family.sans.value"},          /* globalTokens.type_sans, */
+    "dataFontSize": {"value": "font.scale.02.value"},               /* globalTokens.type_scale_02, */
+    "dataFontStyle": {"value": "font.style.normal.value"},          /* globalTokens.type_normal, */
+    "dataFontWeight": {"value": "font.weight.regular.value"},       /* globalTokens.type_regular, */
+    "dataFontColor": {"value": "color.black.value"},                /* globalTokens.black, */
+    "dataFontTextTransform": {"value": "none"},                     /* "none", */
+    "dataPaddingTop": {"value": "14px"},                            /* "14px", */
+    "dataPaddingBottom": {"value": "12px"},                         /* "12px", */
+    "dataPaddingRight": {"value": "20px"},                          /* "20px" */
+    "dataPaddingLeft": {"value": "40px"},                           /* "40px", */
+    "dataTextAlign": {"value": "left"},                             /* "left", */
+    "dataTextLineHeight": {"value": "normal"},                      /* "normal", */
+    "headerBackgroundColor": {"value": "colour.purple.700.value"},  /* globalTokens.hal_purple_s_38, */
+    "headerBorderRadius": {"value": "4px"},                         /* "4px", */
+    "headerFontFamily": {"value": "font.family.sans.value"},        /* globalTokens.type_sans, */
+    "headerFontSize": {"value": "font.scale.02.value"},             /* globalTokens.type_scale_02, */
+    "headerFontStyle": {"value": "font.style.normal.value"},        /* globalTokens.type_normal, */
+    "headerFontWeight": {"value": "font.weight.regular.value"},     /* globalTokens.type_regular, */
+    "headerFontColor": {"value":"colour.white.value"},              /* globalTokens.white, */
+    "headerFontTextTransform": {"value": "none"},                   /* "none", */
+    "headerPaddingTop": {"value": "16px"},                          /* "16px", */
+    "headerPaddingBottom": {"value": "16px"},                       /* "16px", */
+    "headerPaddingRight": {"value": "20px"},                        /* "20px", */
+    "headerPaddingLeft": {"value": "20px"},                         /* "40px", */
+    "headerTextAlign": {"value": "left"},                           /* "left", */
+    "headerTextLineHeight": {"value": "normal"},                    /* "normal", */
+    "scrollBarThumbColor": {"value": "colour.grey.700.value"},      /* globalTokens.darkGrey, */
+    "scrollBarTrackColor": {"value": "#F8F8F8"},                    /* globalTokens.lightGrey, */
+    "sortIconColor": {"value":"colour.white.value"}                 /* globalTokens.white */
+  }
+}

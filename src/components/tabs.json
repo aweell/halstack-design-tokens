@@ -1,0 +1,40 @@
+{
+  "tabs": {
+    "fontFamily": {"value": "font.family.sans.value"},                /* globalTokens.type_sans, */
+    "fontSize": {"value": "font.scale.03.value"},                     /* globalTokens.type_scale_03, */
+    "fontStyle": {"value": "font.tracking.normal.value"},             /* globalTokens.type_normal, */
+    "fontWeight": {"value": "font.weight.semibold.value"},            /* globalTokens.type_semibold, */
+    "fontTextTransform": {"value": "none"},                           /* "none", */
+    "selectedBackgroundColor": {"value": "color.white.value"},        /* globalTokens.white, */
+    "selectedFontColor": {"value": "color.purple.700.value"},         /* "#5f249f", */
+    "selectedIconColor": {"value": "color.purple.700.value"},         /* "#5f249f", */
+    "selectedUnderlineColor": {"value": "color.purple.700.value"},    /* "#5f249f", */
+    "selectedUnderlineThickness": {"value": "2px"},                   /* "2px", */
+    "unselectedBackgroundColor": {"value": "color.white.value"},      /* globalTokens.white, */
+    "unselectedFontColor ": {"value": "color.grey.700.value"},        /* globalTokens.darkGrey, */
+    "unselectedIconColor":  {"value": "color.grey.700.value"},        /* globalTokens.darkGrey, */
+    "disabledFontColor":  {"value": "color.grey.500.value"},          /* "#999999", */
+    "disabledIconColor": {"value": "color.grey.500.value"},           /* "#999999", */
+    "disabledFontStyle": {"value": "font.tracking.normal.value"},     /* globalTokens.type_normal, */
+    "hoverBackgroundColor": {"value": "color.purple.100.value"},      /* "#f2eafa", */
+    "pressedBackgroundColor": {"value": "color.purple.200.value"},    /* "#e5d5f6", */
+    "pressedFontWeight": {"value": "font.weight.semibold.value"},     /* globalTokens.type_semibold, */
+    "dividerColor": {"value": "color.grey.400.value"},                /* globalTokens.mediumGrey, */
+    "dividerThickness": {"value": "1px"},                             /* "1px", */
+    "focusOutline": {"value": "color.purple.700.value"},              /* "#5f249f", */
+    "scrollButtonsWidth": {"value": "48px"},                          /* "48px", */
+    "badgeBackgroundColor": {"value": "color.red.700.value"},         /* globalTokens.darkRed, */
+    "badgeFontFamily": {"value": "font.family.sans.value"},           /* globalTokens.type_sans, */
+    "badgeFontSize": {"value": "10px"},                               /* "10px", */
+    "badgeFontStyle": {"value": "font.tracking.normal.value"},        /* globalTokens.type_normal, */
+    "badgeFontWeight": {"value": "500"},                              /* "500", */
+    "badgeFontColor": {"value": "color.white.value"},                 /* globalTokens.white, */
+    "badgeLetterSpacing": {"value": "font.tracking.wide.02.value"},   /* globalTokens.type_spacing_wide_02, */
+    "badgeWidth": {"value": "16px"},                                  /* "16px", */
+    "badgeHeight": {"value": "16px"},                                 /* "16px", */
+    "badgeRadius": {"value": "10px"},                                 /* "10px", */
+    "badgeWidthWithNotificationNumber": {"value": "23px"},            /* "23px", */
+    "badgeHeightWithNotificationNumber": {"value": "17px"},           /* "17px", */
+    "badgeRadiusWithNotificationNumber": {"value": "10px"}            /* "10px", */
+  }
+}
