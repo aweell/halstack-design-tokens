@@ -1,37 +1,37 @@
 {
   "switch": {
-      "checkedTrackBackgroundColor": {"value": "colour.purple.700.value"},            /*  globalTokens.hal_purple_s_38, */
-      "checkedTrackBackgroundColorOnDark": {"value": "colour.purple.700.value"},      /*  globalTokens.hal_purple_s_38, */
-      "checkedThumbBackgroundColor": {"value": "colour.white.value"},                 /*  globalTokens.white, */
-      "checkedThumbBackgroundColorOnDark":{"value": "colour.white.value"},            /*  globalTokens.white, */
-      "uncheckedTrackBackgroundColor": {"value": "#D9D9D9"},                          /*  globalTokens.lightGrey, */
-      "uncheckedTrackBackgroundColorOnDark": {"value": "#D9D9D9"},                    /*  globalTokens.lightGrey, */
-      "uncheckedThumbBackgroundColor": {"value": "colour.white.value"},               /*  globalTokens.white, */
-      "uncheckedThumbBackgroundColorOnDark": {"value": "colour.white.value"},         /*  globalTokens.white, */
-      "disabledCheckedTrackBackgroundColor": {"valie": "f5ebf9"},                     /*  globalTokens.lightPurple, */
-      "disabledCheckedTrackBackgroundColorOnDark": {"value": "#1c0b24"},              /*  "#1c0b24", */
-      "disabledCheckedThumbBackgroundColor":  {"value":"colour.white.value"},         /*  globalTokens.white, */
-      "disabledCheckedThumbBackgroundColorOnDark": {"value":"colour.white.value"},    /*  globalTokens.white, */
-      "disabledUncheckedTrackBackgroundColor":  {"value": "color.grey.100.value"},    /*  globalTokens.lightWhite, */
-      "disabledUncheckedTrackBackgroundColorOnDark": {"value": "#363636"},            /*  "#363636", */
-      "disabledUncheckedThumbBackgroundColor": {"value":"colour.white.value"},        /*  globalTokens.white, */
-      "disabledUncheckedThumbBackgroundColorOnDark": {"value":"colour.white.value"},  /*  globalTokens.white, */
-      "disabledLabelFontColor": {"value": "#b1b1b1"},                                 /*  globalTokens.lighterBlack, */
-      "disabledLabelFontColorOnDark": {"value":"#575757"},                            /*  "#575757", */
-      "disabledLabelFontStyle": {"value": "font.tracking.normal.value"},              /* globalTokens.type_normal, */
-      "labelFontFamily": {"value": "font.family.sans.value"},                         /* globalTokens.type_sans, */
-      "labelFontSize": {"value": "16px"},                                             /*  globalTokens.type_scale_root, */
-      "labelFontStyle": {"value": "font.tracking.normal.value"},                      /*  globalTokens.type_normal, */
-      "labelFontWeight": {"value": "font.weight.regular.value"},                      /*  globalTokens.type_regular, */
-      "labelFontColor":  {"value": "color.black.value"},                              /*  globalTokens.black, */
-      "labelFontColorOnDark": {"value":"colour.white.value"},                         /*  globalTokens.white, */
-      "thumbFocusColor": {"value": "#005FCC"},                                        /*  globalTokens.blue, */
-      "thumbFocusColorOnDark": {"value": "#1682FF"},                                  /*  "#1682FF", */
-      "thumbHeight": {"value": "24px"},                                               /* "24px", */
-      "thumbWidth": {"value": "24px"},                                                /* "24px", */
-      "thumbShift": {"value": "40%"},                                                 /* "40%", */
-      "trackHeight": {"value": "12px"},                                               /* "12px", */
-      "trackWidth": {"value": "60px"},                                                /* "60px", */
-      "spaceBetweenLabelSwitch": {"value": "0px"}                                     /* "0px", */
+      "checkedTrackBackgroundColor": {"value": "{color.purple.700.value}"},          
+      "checkedTrackBackgroundColorOnDark": {"value": "{color.purple.700.value}"},    
+      "checkedThumbBackgroundColor": {"value": "{color.white.value}"},               
+      "checkedThumbBackgroundColorOnDark": {"value": "{color.white.value}"},         
+      "uncheckedTrackBackgroundColor": {"value": "#D9D9D9"},
+      "uncheckedTrackBackgroundColorOnDark": {"value": "#D9D9D9"},
+      "uncheckedThumbBackgroundColor": {"value": "{color.white.value}"},
+      "uncheckedThumbBackgroundColorOnDark": {"value": "{color.white.value}"},
+      "disabledCheckedTrackBackgroundColor": {"valie": "{f5ebf9"},
+      "disabledCheckedTrackBackgroundColorOnDark": {"value": "#1c0b24"},
+      "disabledCheckedThumbBackgroundColor":  {"value":"{color.white.value}"},
+      "disabledCheckedThumbBackgroundColorOnDark": {"value":"{color.white.value}"},
+      "disabledUncheckedTrackBackgroundColor":  {"value": "{color.grey.100.value}"},
+      "disabledUncheckedTrackBackgroundColorOnDark": {"value": "#363636"},
+      "disabledUncheckedThumbBackgroundColor": {"value":"{color.white.value}"},
+      "disabledUncheckedThumbBackgroundColorOnDark": {"value":"{color.white.value}"},
+      "disabledLabelFontColor": {"value": "#b1b1b1"},
+      "disabledLabelFontColorOnDark": {"value":"#575757"},
+      "disabledLabelFontStyle": {"value": "{font.tracking.normal.value}"},
+      "labelFontFamily": {"value": "{font.family.sans.value}"},
+      "labelFontSize": {"value": "16px"},
+      "labelFontStyle": {"value": "{font.tracking.normal.value}"},
+      "labelFontWeight": {"value": "{font.weight.regular.value}"},
+      "labelFontColor":  {"value": "{color.black.value}"},
+      "labelFontColorOnDark": {"value": "{color.white.value}"},
+      "thumbFocusColor": {"value": "#005FCC"},
+      "thumbFocusColorOnDark": {"value": "#1682FF"},
+      "thumbHeight": {"value": "24px"},
+      "thumbWidth": {"value": "24px"},
+      "thumbShift": {"value": "40%"},
+      "trackHeight": {"value": "12px"},
+      "trackWidth": {"value": "60px"},
+      "spaceBetweenLabelSwitch": {"value": "0px"}
   }
 }

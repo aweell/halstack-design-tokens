@@ -1,56 +1,56 @@
 {
   "wizard": {
-      "disabledBackgroundColor": {"value": "#D9D9D9"},                                /* globalTokens.lightGrey, */
-      "disabledFontColor": {"value": "color.grey.700.value"},                         /* globalTokens.darkGrey, */
-      "stepContainerFontSize": {"value": "font.scale.03.value"},                      /* globalTokens.type_scale_03, */
-      "stepContainerFontFamily": {"value": "font.family.sans.value"},                 /* globalTokens.type_sans, */
-      "stepContainerFontStyle": {"value": "font.style.normal.value"},                 /* globalTokens.type_normal, */
-      "stepContainerFontWeight": {"value": "font.weight.regular.value"},              /* globalTokens.type_regular, */
-      "stepContainerLetterSpacing": {"value": "font.tracking.wide.02.value"},         /* globalTokens.type_spacing_wide_02, */
-      "stepContainerFontColor": {"value": "color.black.value"},                       /* globalTokens.black, */
-      "stepContainerSelectedFontColor": {"value": "color.white.value"},               /* globalTokens.white, */
-      "stepContainerSelectedBackgroundColor": {"value": "color.purple.700.value"},    /* globalTokens.hal_purple_s_38, */
-      "stepContainerBackgroundColor": {"value": "color.white.value"},                 /* globalTokens.white, */
-      "stepContainerIconSize":  {"value": "19px"},                                    /* "19px", */
-      "labelFontSize":   {"value": "font.scale.03.value"},                            /* globalTokens.type_scale_03, */
-      "labelFontFamily": {"value": "font.family.sans.value"},                         /* globalTokens.type_sans, */
-      "labelFontStyle": {"value": "font.style.normal.value"},                         /* globalTokens.type_normal, */
-      "labelFontWeight": {"value": "font.weight.regular.value"},                      /* globalTokens.type_regular, */
-      "labelLetterSpacing":  {"value": "font.tracking.normal.value"},                 /* globalTokens.type_spacing_normal, */
-      "labelFontTextTransform":  {"value": "none"},                                   /* "none", */
-      "labelTextAlign":  {"value": "left"},                                           /* "left", */
-      "labelFontColor": {"value": "color.grey.700.value"},                            /* globalTokens.darkGrey, */
-      "visitedLabelFontColor": {"value": "color.black.value"},                        /* globalTokens.black, */
-      "visitedDescriptionFontColor":  {"value": "color.black.value"},                 /* globalTokens.black, */
-      "descriptionFontSize": {"value": "font.scale.01.value"},                        /* globalTokens.type_scale_01, */
-      "descriptionFontFamily": {"value": "font.family.sans.value"},                   /* globalTokens.type_sans, */
-      "descriptionFontStyle": {"value": "font.style.normal.value"},                   /* globalTokens.type_normal, */
-      "descriptionFontWeight":  {"value": "font.weight.regular.value"},               /* globalTokens.type_regular, */
-      "descriptionLetterSpacing": {"value": "font.tracking.wide.01.value"},           /* globalTokens.type_spacing_wide_01, */
-      "descriptionFontTextTransform":  {"value": "none"},                             /* "none", */
-      "descriptionFontColor": {"value": "color.grey.700.value"},                      /* globalTokens.darkGrey, */
-      "descriptionTextAlign": {"value": "left"},                                      /* "left", */
-      "circleWidth": {"value": "32px"},                                               /* "32px", */
-      "circleHeight": {"value": "32px"},                                              /* "32px", */
-      "circleBorderThickness": {"value": "2px"},                                      /* "2px", */
-      "circleBorderStyle": {"value": "solid"},                                        /* "solid", */
-      "circleBorderRadius":  {"value": "45px"},                                       /* "45px", */
-      "circleBorderColor": {"value": "color.black.value"},                            /* globalTokens.black, */
-      "selectedCircleWidth": {"value": "32px"},                                       /* "32px", */
-      "selectedCircleHeight": {"value": "32px"},                                      /* "32px", */
-      "selectedCircleBorderThickness":  {"value": "2px"},                             /* "2px", */
-      "selectedCircleBorderStyle": {"value": "solid"},                                /* "solid", */
-      "selectedCircleBorderRadius":  {"value": "45px"},                               /* "45px", */
-      "selectedCircleBorderColor":  {"value": "#6f2c91"},                             /* globalTokens.purple, */
-      "disabledCircleWidth":  {"value": "32px"},                                      /* "32px", */
-      "disabledCircleHeight":  {"value": "32px"},                                     /* "32px", */
-      "disabledCircleBorderThickness":   {"value": "2px"},                            /* "2px", */
-      "disabledCircleBorderStyle": {"value": "solid"},                                /* "solid", */
-      "disabledCircleBorderRadius":  {"value": "45px"},                               /* "45px", */
-      "disabledCircleBorderColor": {"value": "#D9D9D9"},                              /* globalTokens.lightGrey, */
-      "separatorBorderThickness":  {"value": "1px"},                                  /* "1px", */
-      "separatorBorderStyle":  {"value": "solid"},                                    /* "solid", */
-      "separatorColor":  {"value": "#D9D9D9"},                                        /* globalTokens.lightGrey, */
-      "focusColor":  {"value": "color.blue.600.vslue"}                                /* globalTokens.hal_blue_l_50 */
+        "disabledBackgroundColor": {"value": "#D9D9D9"},                              
+      "disabledFontColor": {"value": "{color.grey.700.value}"},                       
+      "stepContainerFontSize": {"value": "{font.scale.03.value}"},                    
+      "stepContainerFontFamily": {"value": "{font.family.sans.value}"},               
+      "stepContainerFontStyle": {"value": "{font.style.normal.value}"},               
+      "stepContainerFontWeight": {"value": "{font.weight.regular.value}"},      
+      "stepContainerLetterSpacing": {"value": "{font.tracking.wide.02.value}"}, 
+      "stepContainerFontColor": {"value": "{color.black.value}"},                     
+      "stepContainerSelectedFontColor": {"value": "{color.white.value}"},             
+      "stepContainerSelectedBackgroundColor": {"value": "{color.purple.700.value}"}, 
+      "stepContainerBackgroundColor": {"value": "{color.white.value}"},               
+      "stepContainerIconSize":  {"value": "19px"},                                    
+      "labelFontSize":   {"value": "{font.scale.03.value}"},                          
+      "labelFontFamily": {"value": "{font.family.sans.value}"},                       
+      "labelFontStyle": {"value": "{font.style.normal.value}"},                       
+      "labelFontWeight": {"value": "{font.weight.regular.value}"},               
+      "labelLetterSpacing":  {"value": "{font.tracking.normal.value}"},          
+      "labelFontTextTransform":  {"value": "none"},                                   
+      "labelTextAlign":  {"value": "left"},                                           
+      "labelFontColor": {"value": "{color.grey.700.value}"},                          
+      "visitedLabelFontColor": {"value": "{color.black.value}"},                      
+      "visitedDescriptionFontColor":  {"value": "{color.black.value}"},               
+      "descriptionFontSize": {"value": "{font.scale.01.value}"},                      
+      "descriptionFontFamily": {"value": "{font.family.sans.value}"},                 
+      "descriptionFontStyle": {"value": "{font.style.normal.value}"},                 
+      "descriptionFontWeight":  {"value": "{font.weight.regular.value}"},             
+      "descriptionLetterSpacing": {"value": "{font.tracking.wide.01.value}"},
+      "descriptionFontTextTransform":  {"value": "none"},                             
+      "descriptionFontColor": {"value": "{color.grey.700.value}"},                    
+      "descriptionTextAlign": {"value": "left"},                                      
+      "circleWidth": {"value": "32px"},                                               
+      "circleHeight": {"value": "32px"},                                              
+      "circleBorderThickness": {"value": "2px"},                                      
+      "circleBorderStyle": {"value": "solid"},                                        
+      "circleBorderRadius":  {"value": "45px"},                                       
+      "circleBorderColor": {"value": "{color.black.value}"},                          
+      "selectedCircleWidth": {"value": "32px"},                                       
+      "selectedCircleHeight": {"value": "32px"},                                      
+      "selectedCircleBorderThickness":  {"value": "2px"},                             
+      "selectedCircleBorderStyle": {"value": "solid"},                                
+      "selectedCircleBorderRadius":  {"value": "45px"},                               
+      "selectedCircleBorderColor":  {"value": "#6f2c91"},                             
+      "disabledCircleWidth":  {"value": "32px"},                                      
+      "disabledCircleHeight":  {"value": "32px"},                                     
+      "disabledCircleBorderThickness":   {"value": "2px"},                            
+      "disabledCircleBorderStyle": {"value": "solid"},                                
+      "disabledCircleBorderRadius":  {"value": "45px"},                               
+      "disabledCircleBorderColor": {"value": "#D9D9D9"},                              
+      "separatorBorderThickness":  {"value": "1px"},                                  
+      "separatorBorderStyle":  {"value": "solid"},                                    
+      "separatorColor":  {"value": "#D9D9D9"},                                        
+      "focusColor":  {"value": "{color.blue.600.value}"}                              
   }     
 }     
