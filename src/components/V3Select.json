@@ -21,7 +21,7 @@
       "optionBorderStyle":   {"value": "solid"},
       "optionFontColor": {"value": "{color.black.value}"},
       "optionFontColorOnDark": {"value": "{color.black.value}"},
-      "optionFontSize":  {"value": "type_scale_root.value"},
+      "optionFontSize":  {"value": "{font.scale.03.value}"},
       "optionFontStyle": {"value": "{font.style.normal.value}"},
       "optionFontWeight": {"value": "{font.weight.regular.value}"},
       "optionPaddingBottom":  {"value": "6px"},

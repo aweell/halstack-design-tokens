@@ -23,7 +23,7 @@
       "dragAndDropDraggingStateIconSize":  {"value": "74.5px"},                     
       "dragAndDropDraggingStateFontSize": {"value": "{font.scale.03.value}"},       
       "dragAndDropDraggingStateFontStyle":  {"value": "{font.style.italic.value}"}, 
-      "dragAndDropDraggingStateFontWeight": {"value":"{font.weight.regular.value"}, 
+      "dragAndDropDraggingStateFontWeight": {"value":"{font.weight.regular.value}"}, 
       "dragAndDropDraggingStateFontTextTransform":  {"value": "none"},              
       "dragAndDropDraggingStateFontColor": {"value": "{color.grey.700.value}"},     
       "dragAndDropAreaIconColor":  {"value": "{color.grey.700.value}"},             
