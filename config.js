@@ -34,7 +34,17 @@ module.exports = {
     "src/components/sidenav.json",
     "src/components/slider.json",
     "src/components/spinner.json",
-
+    "src/components/switch.json",
+    "src/components/table.json",
+    "src/components/tabs.json",
+    "src/components/tag.json",
+    "src/components/textarea.json",
+    "src/components/toggleGroup.json",
+    "src/components/upload.json",
+    "src/components/V3Textarea.json",
+    "src/components/V3Select.json",
+    "src/components/wizard.json"
+    
   ],
   "platforms": {
     "css": {
