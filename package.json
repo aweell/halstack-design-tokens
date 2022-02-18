@@ -1,11 +1,11 @@
 {
   "name": "@aweell/halstack-design-tokens",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "Halstack Design Tokens",
   "main": "index.js",
   "directories": {
     "dist": "dist",
-    "src" : "src"
+    "src": "src"
   },
   "dependencies": {
     "style-dictionary": "^3.0.1"
@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/aweell/halstack-design-tokens#readme",
   "files": [
-    "dist/*", 
-    "src/*", 
-    "index.js"]
+    "dist/*",
+    "src/*",
+    "index.js"
+  ]
 }
