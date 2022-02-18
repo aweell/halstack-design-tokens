@@ -1,7 +1,9 @@
-import * as tokens from './dist/js/tokens'
+import * as tokensJs from './dist/js/tokens'
+import * as tokensCss from './dist/css/tokens'
 
 
 
-export {
-   tokens
+module.exports = {
+    tokensJs,
+    tokensCss,
 };
