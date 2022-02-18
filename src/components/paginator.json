@@ -1,0 +1,21 @@
+{
+  "paginator": {
+      "backgroundColor": {"value":"{color.grey.100.value}"},                     
+      "fontColor": {"value":"{color.black.value}"},          
+      "fontFamily": {"value":"{font.family.sans.value}"},         
+      "fontSize": {"value":"{font.scale.02.value}"},              
+      "fontStyle": {"value":"{font.style.normal.value}"},         
+      "fontWeight": {"value":"{font.weight.regular.value}"},      
+      "fontTextTransform": {"value": "{font.transform.initial.value}"}, 
+      "height": {"value": "64px"},                                
+      "width": {"value": "100%"},                                 
+      "marginRight": {"value": "{spacing.32.value}"},                           
+      "marginLeft": {"value": "{spacing.32.value}"},                            
+      "itemsPerPageSelectorMarginLeft": {"value": "{spacing.0.value}"},        
+      "itemsPerPageSelectorMarginRight": {"value": "{spacing.16.value}"},       
+      "pageSelectorMarginRight": {"value": "{spacing.16.value}"},               
+      "pageSelectorMarginLeft": {"value": "{spacing.0.value}"},                
+      "totalItemsContainerMarginRight": {"value": "{spacing.48.value}"},        
+      "totalItemsContainerMarginLeft": {"value": "{spacing.0.value}"}           
+  }
+}
