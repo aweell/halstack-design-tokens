@@ -49,6 +49,7 @@
      }
     },
     "transform": {
+      "none": {"value": "none"},
       "initial": {"value":"initial"},
       "lowercase": {"value":"lowercase"},
       "uppercase": {"value":"uppercase"}

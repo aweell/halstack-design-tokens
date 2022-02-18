@@ -1,0 +1,19 @@
+{
+  "tag": {
+      "fontFamily": {"value": "{font.family.sans.value}"},   
+      "fontColor": {"value": "{color.black.value}"},         
+      "fontSize": {"value": "{font.scale.02.value}"},        
+      "fontStyle": {"value": "{font.style.normal.value}"},   
+      "fontWeight": {"value": "{font.weight.regular.value}"},
+      "labelPaddingTop": {"value": "0px"},                   
+      "labelPaddingBottom": {"value": "0px"},                
+      "labelPaddingLeft": {"value": "16px"},                 
+      "labelPaddingRight": {"value": "16px"},                
+      "height": {"value": "40px"},                           
+      "iconColor": {"value": "{color.white.value}"},         
+      "iconSectionWidth": {"value": "40px"},                 
+      "iconHeight": {"value": "24px"},                       
+      "iconWidth": {"value": "auto"},                        
+      "focusColor": {"value": "{color.blue.600.value}"}      
+  }
+}
