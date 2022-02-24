@@ -17,8 +17,9 @@
       "04": {"value":"1.25rem"},
       "05": {"value":"1.5rem"},
       "06": {"value":"2rem"},
-      "07": {"value":"3rem"},
-      "08": {"value":"3.75rem"}
+      "07": {"value":"2.5rem"},
+      "08": {"value":"3rem"},
+      "09": {"value":"3.75rem"}
    }, 
    "style": {
     "italic": {"value":"italic"},
