@@ -13,7 +13,7 @@
        "disabledColor": {"value": "{color.grey.500.value}"}, 
        "hoverFontColor": {"value": "{color.blue.800.value}"}, 
        "hoverUnderlineColor": {"value": "{color.blue.800.value}"},
-       "visitedFontColor": {"value": "{color.purple.7800.value}"},
+       "visitedFontColor": {"value": "{color.purple.700.value}"},
        "visitedUnderlineColor": {"value": "{color.purple.700.value}"},
        "activeFontColor": {"value": "{color.black.value}"},
        "activeUnderlineColor": {"value": "{color.black.value}"},
