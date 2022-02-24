@@ -1,0 +1,22 @@
+{
+	"link": {
+       "fontColor": {"value": "{color.blue.800.value}"},        
+       "fontFamily": {"value": "inherit"},                      
+       "fontSize": {"value": "{font.scale.03.value}"},          
+       "fontStyle":  {"value": "{font.style.normal.value}"},        
+       "fontWeight":  {"value": "{font.weight.regular.value}"}, 
+       "iconSize":  {"value": "{size.icon.xsmall.value}"}, 
+       "iconSpacing": {"value": "{spacing.4.value}"}, 
+       "underlineSpacing": {"value": "{spacing.0.value}"},
+       "underlineStyle": {"value": "{border.style.solid.value}"},
+       "underlineThickness": {"value": "{border.width.1.value}"},
+       "disabledColor": {"value": "{color.grey.500.value}"}, 
+       "hoverFontColor": {"value": "{color.blue.800.value}"}, 
+       "hoverUnderlineColor": {"value": "{color.blue.800.value}"},
+       "visitedFontColor": {"value": "{color.purple.7800.value}"},
+       "visitedUnderlineColor": {"value": "{color.purple.700.value}"},
+       "activeFontColor": {"value": "{color.black.value}"},
+       "activeUnderlineColor": {"value": "{color.black.value}"},
+       "focusColor": {"value": "{color.blue.600.value}"}
+	}
+}

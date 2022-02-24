@@ -26,6 +26,7 @@ module.exports = {
     "src/components/footer.json",
     "src/components/header.json",
     "src/components/heading.json",
+    "src/components/link.json",
     "src/components/paginator.json",
     "src/components/textInput.json",
     "src/components/progressBar.json",
